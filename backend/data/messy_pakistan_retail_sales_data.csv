@@ -1,0 +1,526 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Age,City,Full_Address,Product_Name,Product_Category,Quantity,No_of_Items,Unit_Price_PKR,Total_Amount_PKR,Payment_Method,Order_Date,Delivery_Status,Customer_Rating
+ORD0001,CUST8519,Mahnoor Hussain,Male,33,Peshawar,"House 982, Block D, University Town, Peshawar, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Debit Card,2026-02-02,Delivered,5
+ORD0002,CUST3981,Hassan Ansari,Female,36,Multan,"House 716, Block A, Cantt, Multan, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,JazzCash,2026-05-05,Pending,5
+ORD0003,CUST8178,Ayesha Khan,Female,45,Peshawar,"House 22, Block D, University Town, Peshawar, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,Credit Card,2025-09-29,Cancelled,3
+ORD0004,CUST6298,Sana Malik,Male,35,Rawalpindi,"House 963, Block E, Satellite Town, Rawalpindi, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,JazzCash,2025-05-10,Delivered,2
+ORD0005,CUST1568,Zainab Iqbal,Male,30,Hyderabad,"House 809, Block E, Latifabad Unit 7, Hyderabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,Debit Card,2025-10-13,Pending,3
+ORD0006,CUST4948,Zainab Ansari,Male,45,Hyderabad,"House 702, Block D, Qasimabad, Hyderabad, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,Debit Card,2025-09-09,Cancelled,1
+ORD0007,CUST2816,Abdullah Hussain,Male,51,Peshawar,"House 517, Block E, Hayatabad, Peshawar, Pakistan",Smart Watch,Electronics,4,4,Rs 12000,Rs 48000,Debit Card,2025-09-22,Delivered,1
+ORD0008,CUST5678,Hamza Khan,Male,48,Peshawar,"House 731, Block D, Hayatabad, Peshawar, Pakistan",T-Shirt,Clothing,5,5,Rs 2500,Rs 12500,Debit Card,2026-03-29,Cancelled,5
+ORD0009,CUST7514,Abdullah Farooq,Male,44,Islamabad,"House 272, Block E, Bahria Enclave, Islamabad, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,PKR 3200,Debit Card,2025-12-02,Delivered,2
+ORD0010,CUST5810,Laiba Malik,Male,48,Lahore,"House 583, Block D, Bahria Town, Lahore, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,,2025-10-29,Pending,5
+ORD0011,CUST7974,Bilal Malik,Male,51,Lahore,"House 315, Block A, Model Town, Lahore, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,Credit Card,2025-07-11,Cancelled,5
+ORD0012,CUST3660,Hamza Khan,Female,22,Hyderabad,"House 235, Block C, Latifabad Unit 7, Hyderabad, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,Debit Card,2026-05-01,Pending,1
+ORD0013,CUST7778,Hamza Khan,Female,50,Hyderabad,"House 610, Block E, Qasimabad, Hyderabad, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Cash,2025-07-24,Cancelled,1
+ORD0014,CUST9970,Taimoor Ansari,Male,24,Peshawar,"House 788, Block E, Hayatabad, Peshawar, Pakistan",Cap,Accessories,2,2,Rs 1800,Rs 3600,Cash,2026-04-26,Pending,3
+ORD0015,CUST2770,Sana Iqbal,Male,27,Multan,"House 971, Block B, Cantt, Multan, Pakistan",Perfume,Beauty,3,3,Rs 6500,19500,Credit Card,2025-12-27,Pending,5
+ORD0016,CUST6319,Hussain Khan,Female,53,Peshawar,"House 895, Block A, University Town, Peshawar, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,Cash,2025-11-16,Delivered,3
+ORD0017,CUST1380,Ayesha Butt,Male,49,Peshawar,"House 178, Block E, University Town, Peshawar, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,Rs 7500,Cash,2026-03-08,Pending,2
+ORD0018,CUST1591,Hassan Hussain,Female,44,Islamabad,"House 114, Block B, G-13, Islamabad, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,Credit Card,2025-06-15,Cancelled,4
+ORD0019,CUST5016,Zainab Iqbal,Female,29,Karachi,"House 460, Block B, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Backpack,Bags,2,2,Rs 4200,Rs 8400,JazzCash,2026-03-13,Pending,4
+ORD0020,CUST4350,Ayesha Khan,Male,32,Sialkot,"House 191, Block D, Paris Road, Sialkot, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,Cash,2026-03-08,Delivered,2
+ORD0021,CUST1675,Hassan Sheikh,Female,30,Rawalpindi,"House 226, Block D, Chaklala Scheme 3, Rawalpindi, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,Credit Card,2026-03-11,Pending,3
+ORD0022,CUST8892,,Female,55,Islamabad,"House 292, Block C, G-13, Islamabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,12000,Debit Card,2025-10-08,Delivered,1
+ORD0023,CUST2047,Sana Sheikh,Female,19,Peshawar,"House 245, Block D, University Town, Peshawar, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Credit Card,2025-08-17,Delivered,5
+ORD0024,CUST6971,Hamza Ahmed,Male,35,Faisalabad,"House 559, Block D, People Colony, Faisalabad, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,Credit Card,2025-08-03,Delivered,4
+ORD0025,CUST9609,Laiba Ahmed,Male,34,Rawalpindi,"House 542, Block A, Chaklala Scheme 3, Rawalpindi, Pakistan",Wireless Earbuds,Electronics,4,4,Rs 9500,Rs 38000,EasyPaisa,2025-12-23,Cancelled,3
+ORD0026,CUST8870,Usman Khan,Female,32,Faisalabad,"House 107, Block B, D Ground, Faisalabad, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,Debit Card,2025-07-15,Cancelled,5
+ORD0027,CUST5051,Taimoor Khan,Female,45,Multan,"House 259, Block C, Gulgasht Colony, Multan, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,Debit Card,2025-08-09,Delivered,3
+ORD0028,CUST3350,Abdullah Raza,Male,49,Faisalabad,"House 905, Block C, D Ground, Faisalabad, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,Rs 3200,Debit Card,2025-10-16,Pending,1
+ORD0029,CUST1155,Ali Butt,Female,38,Islamabad,"House 55, Block B, G-13, Islamabad, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,Cash,2025-07-01,Delivered,3
+ORD0030,CUST2950,Abdullah Raza,Male,22,Peshawar,"House 723, Block A, University Town, Peshawar, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Cash,2025-06-11,Delivered,4
+ORD0031,CUST8422,Ahmed Ansari,Male,19,Quetta,"House 760, Block B, Samungli Road, Quetta, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,,2025-11-21,Delivered,5
+ORD0032,CUST4008,Usman Ahmed,Female,53,Multan,,Smart Watch,Electronics,4,4,Rs 12000,Rs 48000,JazzCash,2025-05-10,Delivered,3
+ORD0033,CUST4465,Usman Hussain,Male,25,Hyderabad,"House 311, Block C, Latifabad Unit 7, Hyderabad, Pakistan",Backpack,Bags,2,2,Rs 4200,Rs.8400,Credit Card,2025-12-05,Pending,2
+ORD0034,CUST4060,Fatima Qureshi,Female,36,Sialkot,"House 151, Block C, Cantt Area, Sialkot, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,JazzCash,2026-01-16,DONE,4
+ORD0035,CUST4159,Mahnoor Ansari,Male,24,Multan,"House 185, Block A, Gulgasht Colony, Multan, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,JazzCash,2026-02-03,Cancelled,4
+ORD0036,CUST1630,Umer Butt,Male,39,Multan,"House 507, Block C, Gulgasht Colony, Multan, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,EasyPaisa,2025-09-27,Delivered,2
+ORD0037,CUST1153,Hussain Farooq,Male,21,Islamabad,"House 396, Block D, F-10, Islamabad, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,Rs 7500,EasyPaisa,2025-06-26,Pending,2
+ORD0038,CUST3626,Abdullah Farooq,Female,55,Hyderabad,"House 603, Block D, Qasimabad, Hyderabad, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Debit Card,2025-10-21,Delivered,3
+ORD0039,CUST5993,Muneeb Sheikh,Male,39,Lahore,"House 658, Block C, DHA Phase 4, Lahore, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Credit Card,2026-01-16,Pending,2
+ORD0040,CUST3823,Ayesha Ansari,Female,28,Quetta,"House 969, Block E, Jinnah Town, Quetta, Pakistan",Smart Watch,Electronics,2,2,Rs 12000,Rs 24000,Cash,2025-05-19,Cancelled,2
+ORD0041,CUST2779,Laiba Farooq,Male,45,Rawalpindi,"House 916, Block E, Satellite Town, Rawalpindi, Pakistan",Perfume,Beauty,1,1,Rs 6500,Rs 6500,Cash,2026-03-02,Cancelled,4
+ORD0042,CUST2801,Bilal Iqbal,Female,50,Quetta,"House 225, Block D, Samungli Road, Quetta, Pakistan",Perfume,Beauty,1,1,Rs 6500,Rs 6500,Credit Card,2025-06-03,Pending,4
+ORD0043,CUST2240,Ali Farooq,Female,29,Peshawar,"House 415, Block D, University Town, Peshawar, Pakistan",Perfume,Beauty,1,1,Rs 6500,Rs 6500,Debit Card,2025-09-19,Delivered,3
+ORD0044,CUST2575,Ali Siddiqui,Female,21,Karachi,"House 203, Block A, North Nazimabad Block H, Karachi, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,EasyPaisa,2025-08-03,Delivered,5
+ORD0045,CUST4203,Muneeb Raza,Female,30,Sialkot,"House 258, Block C, Paris Road, Sialkot, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,Cash,2026-03-05,Delivered,2
+ORD0046,CUST8621,,Female,41,Karachi,"House 713, Block D, Clifton Block 5, Karachi, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,JazzCash,2026-01-06,Cancelled,5
+ORD0047,CUST5680,Mahnoor Siddiqui,Male,24,Hyderabad,"House 229, Block E, Latifabad Unit 7, Hyderabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,JazzCash,2026-02-09,Cancelled,3
+ORD0048,CUST6022,Ayesha Ansari,Male,50,Karachi,"House 663, Block E, PECHS Block 2, Karachi, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,Credit Card,2025-09-29,Cancelled,1
+ORD0049,CUST7817,Saad Ansari,Female,52,Rawalpindi,"House 906, Block B, Satellite Town, Rawalpindi, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,Credit Card,2025-12-29,Pending,2
+ORD0050,CUST8819,Bilal Iqbal,Male,49,Islamabad,"House 184, Block C, F-10, Islamabad, Pakistan",Smart Watch,Electronics,5,5,Rs 12000,Rs 60000,EasyPaisa,2025-10-21,Cancelled,2
+ORD0051,CUST4815,Abdullah Iqbal,Female,48,Rawalpindi,"House 708, Block A, Chaklala Scheme 3, Rawalpindi, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,Cash,2025-10-02,Delivered,1
+ORD0052,CUST3356,Abdullah Sheikh,Female,40,Multan,"House 340, Block D, Gulgasht Colony, Multan, Pakistan",Jeans,Clothing,4,4,Rs 4800,Rs 19200,Cash,2025-05-23,Delivered,3
+ORD0053,CUST4450,Abdullah Iqbal,Male,52,Multan,"House 788, Block D, Cantt, Multan, Pakistan",Wireless Earbuds,Electronics,4,4,Rs 9500,Rs 38000,Credit Card,2026-03-23,Delivered,4
+ORD0054,CUST6530,Mahnoor Khan,Male,35,Faisalabad,"House 955, Block D, People Colony, Faisalabad, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,Credit Card,2025-05-30,Pending,5
+ORD0055,CUST9838,Hamza Siddiqui,Male,29,Quetta,"House 113, Block B, Samungli Road, Quetta, Pakistan",T-Shirt,Clothing,5,5,Rs 2500,Rs 12500,Credit Card,2026-03-29,Cancelled,5
+ORD0056,CUST1367,Ayesha Iqbal,Male,31,Lahore,"House 925, Block B, Johar Town, Lahore, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,Cash,2025-08-20,Delivered,3
+ORD0057,CUST4737,Ayesha Iqbal,Female,48,,"House 356, Block D, DHA Phase 4, Lahore, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Credit Card,2026-01-23,Delivered,5
+ORD0058,CUST6629,Ayesha Hussain,Male,25,Lahore,"House 684, Block A, Bahria Town, Lahore, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,Debit Card,2025-11-27,Delivered,3
+ORD0059,CUST7859,Bilal Malik,Male,29,Rawalpindi,"House 176, Block A, Satellite Town, Rawalpindi, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,PKR 6400,Debit Card,2025-08-20,Pending,4
+ORD0060,CUST6255,Laiba Iqbal,Female,42,Karachi,"House 404, Block C, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,EasyPaisa,2025-05-25,Pending,2
+ORD0061,CUST9425,Umer Khan,Male,39,Islamabad,"House 314, Block E, G-13, Islamabad, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,EasyPaisa,2025-09-02,Pending,4
+ORD0062,CUST2886,Ali Qureshi,Male,41,Rawalpindi,"House 239, Block E, Chaklala Scheme 3, Rawalpindi, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,Credit Card,2025-08-23,Cancelled,3
+ORD0063,CUST8495,Fatima Sheikh,Male,34,Islamabad,"House 514, Block E, G-13, Islamabad, Pakistan",T-Shirt,Clothing,1,1,Rs 2500,Rs 2500,Credit Card,2025-10-15,Cancelled,1
+ORD0064,CUST4708,Mahnoor Iqbal,Male,55,Multan,"House 383, Block D, Cantt, Multan, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,Credit Card,2025-12-05,Pending,4
+ORD0065,CUST1055,Hamza Siddiqui,Female,47,Lahore,"House 232, Block C, Bahria Town, Lahore, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,EasyPaisa,2025-09-25,Cancelled,1
+ORD0066,CUST9793,Umer Farooq,Male,43,Faisalabad,"House 641, Block E, People Colony, Faisalabad, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs 17000,Cash,2025-11-02,Cancelled,4
+ORD0067,CUST1123,Laiba Qureshi,Female,27,Quetta,"House 163, Block C, Samungli Road, Quetta, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,Cash,2025-10-27,Delivered,3
+ORD0068,CUST7590,Hira Hussain,Female,32,Sialkot,"House 453, Block B, Cantt Area, Sialkot, Pakistan",Cap,Accessories,1,1,Rs 1800,Rs 1800,Debit Card,2026-01-26,Pending,5
+ORD0069,CUST5633,Ali Ahmed,Male,24,Multan,"House 609, Block D, Cantt, Multan, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,Credit Card,2026-04-29,Cancelled,2
+ORD0070,CUST2111,Taimoor Malik,Female,35,Peshawar,"House 168, Block C, Hayatabad, Peshawar, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,JazzCash,2025-09-01,Cancelled,4
+ORD0071,CUST6902,Ahmed Farooq,Male,53,Faisalabad,"House 496, Block A, People Colony, Faisalabad, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs.12600,JazzCash,2026-01-01,Delivered,4
+ORD0072,CUST2823,Hassan Raza,Female,21,Hyderabad,"House 995, Block B, Qasimabad, Hyderabad, Pakistan",Perfume,Beauty,1,1,Rs 6500,Rs 6500,JazzCash,2026-02-10,Pending,4
+ORD0073,CUST8048,,Male,55,Hyderabad,"House 83, Block C, Qasimabad, Hyderabad, Pakistan",T-Shirt,Clothing,-3,3,Rs 2500,Rs 7500,Debit Card,2025-09-22,Cancelled,2
+ORD0074,CUST8269,Ahmed Hussain,Female,41,Peshawar,"House 505, Block D, University Town, Peshawar, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,EasyPaisa,2025-05-27,Pending,3
+ORD0075,CUST1811,Zainab Sheikh,Female,37,Multan,"House 227, Block A, Cantt, Multan, Pakistan",Backpack,Bags,2,2,Rs 4200,8400 Rs,JazzCash,2026-05-02,Cancelled,5
+ORD0076,CUST9283,Abdullah Ansari,Male,38,Rawalpindi,"House 326, Block C, Chaklala Scheme 3, Rawalpindi, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,JazzCash,2026-03-26,Pending,3
+ORD0077,CUST2731,Hamza Ansari,Male,28,Lahore,"House 554, Block E, Johar Town, Lahore, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,Debit Card,2026-04-09,Cancelled,3
+ORD0078,CUST6747,Taimoor Iqbal,Female,46,Islamabad,"House 709, Block D, Bahria Enclave, Islamabad, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,3200,Cash,2025-09-11,Cancelled,1
+ORD0079,CUST3630,Zainab Ahmed,Female,24,Islamabad,"House 395, Block D, F-10, Islamabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,EasyPaisa,2026-02-10,Pending,5
+ORD0080,CUST7093,Zainab Ahmed,Male,26,Islamabad,"House 588, Block C, F-10, Islamabad, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,Debit Card,2026-05-07,Pending,3
+ORD0081,CUST4680,Ahmed Ansari,Female,19,Islamabad,"House 271, Block A, Bahria Enclave, Islamabad, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,Rs 3200,Cash,2025-10-05,Cancelled,1
+ORD0082,CUST8672,Abdullah Iqbal,Male,27,Peshawar,"House 774, Block A, University Town, Peshawar, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Credit Card,2025-09-25,Pending,1
+ORD0083,CUST4140,Mahnoor Hussain,Female,53,Multan,"House 32, Block E, Cantt, Multan, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,Cash,2025-08-21,Cancelled,3
+ORD0084,CUST7981,Hira Raza,Male,33,Rawalpindi,"House 61, Block C, Satellite Town, Rawalpindi, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,Cash,2026-03-25,Pending,3
+ORD0085,CUST3623,,Male,22,Faisalabad,"House 93, Block D, People Colony, Faisalabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,EasyPaisa,2026-03-13,Pending,1
+ORD0086,CUST4975,Bilal Khan,Male,40,Faisalabad,"House 675, Block C, D Ground, Faisalabad, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,Cash,2026-02-11,Delivered,2
+ORD0087,CUST4602,Ahmed Hussain,Male,20,Rawalpindi,"House 907, Block B, Chaklala Scheme 3, Rawalpindi, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,JazzCash,2025-07-13,Delivered,3
+ORD0088,CUST1244,Ayesha Butt,Male,19,Quetta,"House 471, Block A, Samungli Road, Quetta, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,JazzCash,2025-09-27,Pending,3
+ORD0089,CUST8129,Hira Iqbal,Male,46,Karachi,"House 628, Block C, North Nazimabad Block H, Karachi, Pakistan",Hoodie,Clothing,2,2,Rs 5500,11000 Rs,JazzCash,2025-10-29,Delivered,2
+ORD0090,CUST3097,Taimoor Siddiqui,Female,44,Lahore,"House 97, Block E, Model Town, Lahore, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,EasyPaisa,2025-09-03,Delivered,1
+ORD0091,CUST7508,Ayesha Butt,Male,47,Faisalabad,"House 298, Block E, People Colony, Faisalabad, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,JazzCash,2026-04-16,Cancelled,2
+ORD0092,CUST2111,Laiba Siddiqui,Female,31,Lahore,"House 838, Block C, DHA Phase 4, Lahore, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,EasyPaisa,2026-01-08,Pending,5
+ORD0093,CUST8481,Hussain Ansari,Female,55,Karachi,"House 481, Block A, PECHS Block 2, Karachi, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs 17000,,2025-06-30,Cancelled,5
+ORD0094,CUST5129,,Female,37,Lahore,"House 879, Block D, DHA Phase 4, Lahore, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,Credit Card,2026-04-01,Delivered,3
+ORD0095,CUST2735,Zainab Ansari,Female,49,Sialkot,"House 473, Block E, Cantt Area, Sialkot, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,Cash,2026-01-11,Cancelled,4
+ORD0096,CUST9485,Saad Raza,Female,52,Lahore,"House 763, Block A, Bahria Town, Lahore, Pakistan",Cap,Accessories,3,3,Rs 1800,5400 Rs,EasyPaisa,2025-06-09,Cancelled,2
+ORD0097,CUST7764,Usman Butt,Female,39,Sialkot,"House 77, Block A, Cantt Area, Sialkot, Pakistan",Jeans,Clothing,4,4,Rs 4800,Rs 19200,EasyPaisa,2025-05-10,Pending,3
+ORD0098,CUST6887,Saad Sheikh,Female,21,Faisalabad,"House 702, Block A, People Colony, Faisalabad, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,Debit Card,2025-11-25,Cancelled,3
+ORD0099,CUST3460,Fatima Iqbal,Male,43,Islamabad,"House 403, Block D, Bahria Enclave, Islamabad, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,Rs 7500,Cash,2026-02-12,Pending,3
+ORD0100,CUST1408,Hira Qureshi,Male,30,Hyderabad,"House 906, Block C, Qasimabad, Hyderabad, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,,2025-11-30,Pending,1
+ORD0101,CUST1888,Hassan Iqbal,Male,21,Multan,"House 735, Block B, Cantt, Multan, Pakistan",Cap,Accessories,2,2,Rs 1800,Rs 3600,Credit Card,2026-01-21,Pending,5
+ORD0102,CUST3257,Sana Butt,Female,27,Sialkot,"House 654, Block C, Paris Road, Sialkot, Pakistan",Wireless Earbuds,Electronics,3,3,Rs 9500,Rs 28500,Cash,2026-04-17,Cancelled,5
+ORD0103,CUST6440,Saad Qureshi,Female,25,Multan,"House 135, Block C, Cantt, Multan, Pakistan",T-Shirt,Clothing,1,1,Rs 2500,PKR 2500,JazzCash,2025-11-12,Delivered,1
+ORD0104,CUST9021,Umer Hussain,Male,30,Islamabad,"House 384, Block D, G-13, Islamabad, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,Debit Card,2026-02-27,Delivered,1
+ORD0105,CUST3618,Saad Malik,Female,53,Faisalabad,"House 927, Block C, People Colony, Faisalabad, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Credit Card,2025-05-09,Pending,4
+ORD0106,CUST8249,Abdullah Malik,Female,32,Quetta,"House 286, Block C, Samungli Road, Quetta, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,JazzCash,2025-07-20,Cancelled,5
+ORD0107,CUST3641,Muneeb Hussain,Female,52,Quetta,"House 498, Block A, Jinnah Town, Quetta, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,EasyPaisa,2025-11-26,Delivered,2
+ORD0108,CUST8948,Laiba Qureshi,Male,50,Faisalabad,"House 76, Block B, D Ground, Faisalabad, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,EasyPaisa,2026-03-17,Pending,2
+ORD0109,CUST9370,Taimoor Siddiqui,Male,50,Lahore,"House 462, Block B, DHA Phase 4, Lahore, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,,2026-01-01,Delivered,4
+ORD0110,CUST5663,Ali Sheikh,Male,29,Karachi,"House 815, Block B, PECHS Block 2, Karachi, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,Cash,2026-03-03,Cancelled,4
+ORD0111,CUST1089,Abdullah Hussain,Male,32,Faisalabad,"House 288, Block B, D Ground, Faisalabad, Pakistan",Backpack,Bags,-2,2,Rs 4200,Rs 8400,JazzCash,2025-06-07,Pending,1
+ORD0112,CUST2570,Hassan Ansari,Male,47,Islamabad,"House 659, Block D, G-13, Islamabad, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,JazzCash,2026-01-27,Pending,2
+ORD0113,CUST4304,Zainab Qureshi,Male,52,Lahore,"House 33, Block D, Bahria Town, Lahore, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,JazzCash,2026-01-18,Cancelled,5
+ORD0114,CUST2028,Umer Ahmed,Male,34,Sialkot,"House 476, Block C, Paris Road, Sialkot, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,Credit Card,2025-10-20,Cancelled,5
+ORD0115,CUST6218,Bilal Iqbal,Female,23,Karachi,"House 56, Block B, DHA Phase 6, Karachi, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Debit Card,2026-02-24,Cancelled,4
+ORD0116,CUST4984,Bilal Hussain,Male,33,,"House 231, Block A, F-10, Islamabad, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,Debit Card,2025-10-13,Pending,5
+ORD0117,CUST5238,Hira Qureshi,Male,22,Sialkot,"House 947, Block B, Cantt Area, Sialkot, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,Debit Card,2025-06-14,Cancelled,4
+ORD0118,CUST5043,Mahnoor Ansari,Female,33,Islamabad,"House 781, Block C, Bahria Enclave, Islamabad, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,JazzCash,2025-07-27,Delivered,2
+ORD0119,CUST4273,Ayesha Iqbal,Male,47,  KARACHI ,"House 66, Block E, DHA Phase 6, Karachi, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,EasyPaisa,2026-01-31,Cancelled,2
+ORD0120,CUST4566,Usman Hussain,Male,25,Sialkot,"House 417, Block E, Cantt Area, Sialkot, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,Credit Card,2026-04-03,Cancelled,5
+ORD0121,CUST6226,Sana Sheikh,Male,44,Rawalpindi,"House 902, Block C, Satellite Town, Rawalpindi, Pakistan",Smart Watch,Electronics,5,5,Rs 12000,Rs 60000,EasyPaisa,2025-06-22,Pending,5
+ORD0122,CUST5592,Usman Malik,Female,22,  MULTAN ,"House 716, Block D, Gulgasht Colony, Multan, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs 17000,Cash,2025-05-27,Pending,3
+ORD0123,CUST1281,Zainab Siddiqui,Male,34,Karachi,"House 284, Block B, DHA Phase 6, Karachi, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,EasyPaisa,2025-05-11,Pending,4
+ORD0124,CUST8717,Ali Hussain,Female,47,Islamabad,"House 955, Block E, F-10, Islamabad, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,,2025-05-20,Cancelled,4
+ORD0125,CUST6882,Hira Siddiqui,Male,24,Quetta,"House 710, Block A, Jinnah Town, Quetta, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,Cash,2026-01-17,Pending,5
+ORD0126,CUST2236,Hira Iqbal,Male,18,Faisalabad,"House 698, Block E, People Colony, Faisalabad, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Cash,2025-08-12,Pending,1
+ORD0127,CUST5420,Hussain Farooq,Male,19,Karachi,"House 710, Block D, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,EasyPaisa,2025-10-16,Delivered,5
+ORD0128,CUST7981,Fatima Raza,Female,35,Hyderabad,"House 257, Block A, Latifabad Unit 7, Hyderabad, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,Cash,2026-01-31,Pending,2
+ORD0129,CUST1131,Fatima Iqbal,Female,35,Hyderabad,"House 24, Block B, Qasimabad, Hyderabad, Pakistan",Smart Watch,Electronics,2,2,Rs 12000,Rs 24000,JazzCash,2026-01-14,Cancelled,5
+ORD0130,CUST1158,Hamza Sheikh,Female,53,Rawalpindi,"House 920, Block E, Satellite Town, Rawalpindi, Pakistan",Backpack,Bags,5,5,Rs 4200,Rs 21000,Credit Card,2026-02-11,Pending,1
+ORD0131,CUST2671,Ayesha Hussain,Male,30,Multan,"House 699, Block E, Gulgasht Colony, Multan, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,EasyPaisa,2025-08-01,Delivered,1
+ORD0132,CUST4304,Mahnoor Sheikh,Male,27,Faisalabad,"House 616, Block B, People Colony, Faisalabad, Pakistan",Smart Watch,Electronics,2,2,Rs 12000,Rs.24000,JazzCash,2025-11-20,Pending,2
+ORD0133,CUST1618,Fatima Butt,Male,51,Sialkot,"House 89, Block B, Cantt Area, Sialkot, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,Cash,2026-03-19,Delivered,5
+ORD0134,CUST8097,Ali Malik,Female,21,Lahore,"House 519, Block B, Bahria Town, Lahore, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Credit Card,2025-11-13,Delivered,4
+ORD0135,CUST7876,Sana Ansari,Female,25,Islamabad,"House 636, Block C, F-10, Islamabad, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,Credit Card,2025-05-08,Delivered,3
+ORD0136,CUST6526,Abdullah Khan,Female,25,Quetta,"House 119, Block D, Samungli Road, Quetta, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Credit Card,2025-06-22,Cancelled,3
+ORD0137,CUST9433,Abdullah Khan,Male,22,Peshawar,"House 485, Block A, Hayatabad, Peshawar, Pakistan",Perfume,Beauty,3,3,Rs 6500,Rs 19500,EasyPaisa,2026-03-11,Pending,2
+ORD0138,CUST2120,Hassan Butt,Female,27,Multan,"House 824, Block E, Cantt, Multan, Pakistan",Backpack,Bags,2,2,Rs 4200,Rs 8400,Debit Card,2025-08-24,Pending,4
+ORD0139,CUST4822,Ahmed Iqbal,Female,30,Hyderabad,"House 431, Block A, Qasimabad, Hyderabad, Pakistan",Sneakers,Footwear,-1,1,Rs 8500,8500 Rs,EasyPaisa,2025-09-15,Cancelled,1
+ORD0140,CUST7746,Abdullah Farooq,Female,23,Rawalpindi,"House 841, Block B, Satellite Town, Rawalpindi, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,Cash,2025-07-28,in process,2
+ORD0141,CUST4650,Hamza Sheikh,Female,50,Islamabad,"House 346, Block C, F-10, Islamabad, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,JazzCash,2025-08-04,Delivered,1
+ORD0142,CUST9072,Zainab Raza,Female,23,  SIALKOT ,"House 508, Block C, Cantt Area, Sialkot, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Cash,2025-05-13,Pending,5
+ORD0143,CUST2668,Taimoor Farooq,Male,22,Sialkot,"House 990, Block C, Paris Road, Sialkot, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,JazzCash,2025-07-29,Pending,1
+ORD0144,CUST1962,Abdullah Raza,Female,38,Faisalabad,"House 363, Block C, D Ground, Faisalabad, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,Credit Card,2026-03-02,Cancelled,3
+ORD0145,CUST9414,Fatima Khan,Female,30,Faisalabad,"House 84, Block C, People Colony, Faisalabad, Pakistan",Wireless Earbuds,Electronics,3,3,Rs 9500,Rs 28500,Credit Card,2025-06-26,Cancelled,5
+ORD0146,CUST5462,Taimoor Iqbal,Male,29,  NAN ,"House 574, Block E, Gulgasht Colony, Multan, Pakistan",Cap,Accessories,5,5,Rs 1800,Rs 9000,JazzCash,2025-09-17,Delivered,4
+ORD0147,CUST7027,Hussain Ahmed,Male,31,  FAISALABAD ,"House 26, Block C, D Ground, Faisalabad, Pakistan",Backpack,Bags,5,5,Rs 4200,Rs 21000,Credit Card,2025-11-03,Cancelled,1
+ORD0148,CUST9853,Saad Ansari,Female,29,Multan,"House 753, Block B, Gulgasht Colony, Multan, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,JazzCash,2026-03-19,Delivered,4
+ORD0149,CUST4544,Hira Siddiqui,Female,39,Lahore,"House 588, Block D, Johar Town, Lahore, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs.14400,EasyPaisa,2025-09-07,Delivered,4
+ORD0150,CUST6533,Hassan Malik,Female,33,Islamabad,"House 351, Block A, G-13, Islamabad, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Cash,2025-06-28,Cancelled,2
+ORD0151,CUST9656,Ahmed Butt,Male,32,Peshawar,"House 899, Block A, University Town, Peshawar, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,EasyPaisa,2025-08-21,Pending,3
+ORD0152,CUST8445,Ayesha Malik,Female,26,Hyderabad,"House 127, Block D, Qasimabad, Hyderabad, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,,2025-12-13,Cancelled,3
+ORD0153,CUST6549,Bilal Butt,Female,33,  HYDERABAD ,"House 308, Block B, Latifabad Unit 7, Hyderabad, Pakistan",Sneakers,Footwear,3,3,Rs 8500,Rs 25500,Credit Card,2025-06-01,Pending,5
+ORD0154,CUST4947,Hassan Hussain,Female,32,Rawalpindi,"House 501, Block A, Satellite Town, Rawalpindi, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,,2025-10-07,Pending,2
+ORD0155,CUST7168,Fatima Raza,Male,39,Islamabad,"House 68, Block C, F-10, Islamabad, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,Debit Card,2026-04-13,Pending,1
+ORD0156,CUST5574,Abdullah Iqbal,Male,50,Quetta,"House 904, Block D, Samungli Road, Quetta, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Cash,2025-07-12,Cancelled,5
+ORD0157,CUST7599,Hira Raza,Female,33,Multan,"House 245, Block B, Gulgasht Colony, Multan, Pakistan",Perfume,Beauty,1,1,Rs 6500,Rs 6500,JazzCash,2025-11-28,Delivered,5
+ORD0158,CUST3446,Ali Ansari,Female,29,Lahore,"House 296, Block B, Bahria Town, Lahore, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,Rs 7500,JazzCash,2025-12-25,Delivered,4
+ORD0159,CUST5067,,Male,-3,Sialkot,"House 509, Block A, Paris Road, Sialkot, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Cash,2025-11-28,Cancelled,2
+ORD0160,CUST5565,Saad Qureshi,Male,29,Hyderabad,"House 884, Block E, Latifabad Unit 7, Hyderabad, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Credit Card,2025-09-29,Cancelled,5
+ORD0161,CUST9198,Saad Farooq,Male,46,  NAN ,"House 106, Block B, Gulgasht Colony, Multan, Pakistan",Jeans,Clothing,-1,1,Rs 4800,Rs 4800,EasyPaisa,2025-05-27,Pending,5
+ORD0162,CUST4750,Hamza Sheikh,Female,41,Lahore,"House 212, Block A, Model Town, Lahore, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs 17000,Debit Card,2025-08-04,Pending,3
+ORD0163,CUST9786,Sana Raza,Male,25,Islamabad,"House 72, Block C, Bahria Enclave, Islamabad, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,Credit Card,2025-07-26,Pending,1
+ORD0164,CUST2130,Saad Sheikh,Male,48,Peshawar,"House 795, Block D, University Town, Peshawar, Pakistan",Smart Watch,Electronics,2,2,Rs 12000,Rs 24000,Cash,2025-08-01,Cancelled,1
+ORD0165,CUST7368,Umer Butt,Male,120,Peshawar,"House 834, Block E, Hayatabad, Peshawar, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,JazzCash,2025-05-30,Delivered,1
+ORD0166,CUST3326,Taimoor Ansari,Male,37,Hyderabad,"House 938, Block B, Latifabad Unit 7, Hyderabad, Pakistan",Perfume,Beauty,3,3,Rs 6500,Rs 19500,Credit Card,2025-12-10,Cancelled,5
+ORD0167,CUST7677,Taimoor Farooq,Male,35,Faisalabad,"House 387, Block C, D Ground, Faisalabad, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Debit Card,2025-06-28,Cancelled,2
+ORD0168,CUST7144,Sana Siddiqui,Male,41,Lahore,"House 521, Block C, DHA Phase 4, Lahore, Pakistan",Wireless Earbuds,Electronics,4,4,Rs 9500,Rs 38000,JazzCash,2025-05-23,Delivered,1
+ORD0169,CUST5002,Umer Farooq,Male,29,Islamabad,"House 131, Block B, G-13, Islamabad, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Cash,2026-03-19,Delivered,5
+ORD0170,CUST2732,Ali Farooq,Male,19,Multan,"House 131, Block A, Cantt, Multan, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,Credit Card,2026-04-21,Pending,4
+ORD0171,CUST1972,Hussain Farooq,Female,29,Lahore,"House 584, Block D, Johar Town, Lahore, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,,2026-01-24,Pending,5
+ORD0172,CUST8537,Ali Butt,Male,45,Karachi,"House 774, Block B, DHA Phase 6, Karachi, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,Debit Card,2026-04-20,Delivered,2
+ORD0173,CUST5827,Hira Qureshi,Female,45,Peshawar,"House 466, Block E, Hayatabad, Peshawar, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,EasyPaisa,2026-01-05,Delivered,2
+ORD0174,CUST2467,Hira Ahmed,Male,42,Islamabad,"House 849, Block B, G-13, Islamabad, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,Credit Card,2025-11-16,Pending,3
+ORD0175,CUST6373,Umer Hussain,Male,44,Islamabad,"House 763, Block A, F-10, Islamabad, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,JazzCash,2026-03-22,Cancelled,5
+ORD0176,CUST4922,Ahmed Ahmed,Female,19,Faisalabad,"House 516, Block A, People Colony, Faisalabad, Pakistan",Jeans,Clothing,4,4,Rs 4800,Rs 19200,Cash,2025-12-23,Pending,3
+ORD0177,CUST5775,Mahnoor Siddiqui,Male,34,Lahore,"House 421, Block D, DHA Phase 4, Lahore, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Debit Card,2026-05-07,Pending,1
+ORD0178,CUST9635,Hussain Farooq,Male,25,Sialkot,"House 215, Block B, Cantt Area, Sialkot, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,JazzCash,2025-11-25,Pending,4
+ORD0179,CUST2252,Bilal Ansari,Male,45,Karachi,"House 559, Block D, PECHS Block 2, Karachi, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,Cash,2026-01-16,Cancelled,3
+ORD0180,CUST6232,Hassan Sheikh,Female,46,Karachi,"House 335, Block A, PECHS Block 2, Karachi, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,Debit Card,2025-10-31,Pending,2
+ORD0181,CUST4148,Hira Sheikh,Male,39,Peshawar,"House 693, Block C, University Town, Peshawar, Pakistan",Wireless Earbuds,Electronics,3,3,Rs 9500,Rs 28500,EasyPaisa,2026-01-31,Pending,4
+ORD0182,CUST3114,Taimoor Hussain,Female,21,Rawalpindi,"House 888, Block E, Chaklala Scheme 3, Rawalpindi, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,JazzCash,2026-03-13,Delivered,1
+ORD0183,CUST7561,Taimoor Raza,Male,22,Sialkot,"House 908, Block E, Paris Road, Sialkot, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,JazzCash,2025-05-24,Delivered,3
+ORD0184,CUST5194,Abdullah Malik,Female,54,Peshawar,"House 77, Block E, University Town, Peshawar, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,Credit Card,2025-07-10,Cancelled,4
+ORD0185,CUST6360,Ahmed Sheikh,Male,30,Karachi,"House 616, Block A, North Nazimabad Block H, Karachi, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,,2026-03-28,Cancelled,1
+ORD0186,CUST9827,Hassan Khan,Male,24,Rawalpindi,"House 380, Block C, Satellite Town, Rawalpindi, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Debit Card,2025-05-31,Pending,5
+ORD0187,CUST6336,Hussain Hussain,Female,21,Peshawar,"House 482, Block B, Hayatabad, Peshawar, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,Credit Card,2025-10-04,Delivered,1
+ORD0188,CUST9923,Hussain Raza,Male,37,Lahore,"House 487, Block A, Model Town, Lahore, Pakistan",Cap,Accessories,1,1,Rs 1800,Rs 1800,Debit Card,2026-05-06,Cancelled,4
+ORD0189,CUST1555,Ahmed Hussain,Female,25,Sialkot,"House 720, Block B, Paris Road, Sialkot, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,Debit Card,2025-11-18,Delivered,2
+ORD0190,CUST9634,Sana Khan,Female,33,Quetta,"House 795, Block A, Samungli Road, Quetta, Pakistan",Backpack,Bags,3,3,Rs 4200,12600,Debit Card,2025-10-25,Pending,3
+ORD0191,CUST3024,,Male,40,Quetta,"House 893, Block D, Jinnah Town, Quetta, Pakistan",Smart Watch,Electronics,4,4,Rs 12000,Rs 48000,Cash,2025-08-13,Cancelled,1
+ORD0192,CUST6739,Hussain Siddiqui,Female,53,  ISLAMABAD ,"House 675, Block B, Bahria Enclave, Islamabad, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Debit Card,2026-01-17,in process,1
+ORD0193,CUST2013,Bilal Qureshi,Male,49,Karachi,"House 18, Block A, Clifton Block 5, Karachi, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,Cash,2025-10-19,Delivered,5
+ORD0194,CUST2016,Bilal Farooq,Male,31,Multan,"House 220, Block C, Gulgasht Colony, Multan, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,Debit Card,2025-12-03,Delivered,3
+ORD0195,CUST6832,Zainab Butt,Female,23,Karachi,"House 624, Block D, PECHS Block 2, Karachi, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,EasyPaisa,2025-11-13,Cancelled,4
+ORD0196,CUST5567,Hussain Ahmed,Male,44,Islamabad,,Cap,Accessories,2,2,Rs 1800,Rs 3600,EasyPaisa,2025-10-30,Delivered,4
+ORD0197,CUST4378,Zainab Qureshi,Female,40,Sialkot,"House 777, Block A, Paris Road, Sialkot, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,JazzCash,2026-04-24,Cancelled,3
+ORD0198,CUST9202,Zainab Iqbal,Male,27,Lahore,"House 825, Block D, Johar Town, Lahore, Pakistan",Cap,Accessories,1,1,Rs 1800,Rs 1800,Credit Card,2025-06-27,Pending,3
+ORD0199,CUST1833,Zainab Malik,Female,23,  KARACHI ,"House 799, Block B, Clifton Block 5, Karachi, Pakistan",Sneakers,Footwear,3,3,Rs 8500,PKR 25500,EasyPaisa,2025-11-23,Cancelled,4
+ORD0200,CUST3552,Ahmed Butt,Female,35,Karachi,"House 802, Block A, North Nazimabad Block H, Karachi, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,Debit Card,2025-12-22,Pending,1
+ORD0201,CUST2666,Saad Raza,Female,35,Faisalabad,"House 850, Block A, People Colony, Faisalabad, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,Debit Card,2025-08-27,in process,4
+ORD0202,CUST3359,Hassan Khan,Male,30,Multan,"House 22, Block B, Cantt, Multan, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,JazzCash,2025-06-05,Pending,5
+ORD0203,CUST2221,Abdullah Khan,Female,34,Lahore,"House 671, Block D, Bahria Town, Lahore, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,JazzCash,2025-07-11,Cancelled,3
+ORD0204,CUST6932,Sana Ahmed,Male,40,Quetta,"House 928, Block D, Jinnah Town, Quetta, Pakistan",Cap,Accessories,5,5,Rs 1800,Rs 9000,Credit Card,2026-05-06,Delivered,5
+ORD0205,CUST8681,Bilal Hussain,Male,34,Islamabad,"House 408, Block E, Bahria Enclave, Islamabad, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,Rs 3200,Debit Card,2025-11-12,Pending,2
+ORD0206,CUST3089,Ahmed Malik,Female,54,Karachi,"House 893, Block E, PECHS Block 2, Karachi, Pakistan",Cap,Accessories,2,2,Rs 1800,Rs 3600,Debit Card,2026-03-26,Pending,1
+ORD0207,CUST4446,Hassan Qureshi,Male,41,Hyderabad,"House 123, Block B, Qasimabad, Hyderabad, Pakistan",Cap,Accessories,1,1,Rs 1800,Rs 1800,JazzCash,2025-07-23,Delivered,2
+ORD0208,CUST5119,Saad Raza,Female,26,Karachi,"House 683, Block B, PECHS Block 2, Karachi, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,Credit Card,2025-08-21,Delivered,1
+ORD0209,CUST3592,Usman Butt,Female,53,Rawalpindi,"House 73, Block D, Satellite Town, Rawalpindi, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,JazzCash,2025-05-30,Cancelled,4
+ORD0210,CUST4982,Ayesha Sheikh,Male,18,Faisalabad,"House 248, Block E, D Ground, Faisalabad, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,Cash,2025-09-05,Delivered,5
+ORD0211,CUST3136,Umer Raza,Female,30,Peshawar,"House 592, Block E, University Town, Peshawar, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,Cash,2025-11-15,Pending,5
+ORD0212,CUST7065,Usman Malik,Male,40,Quetta,"House 278, Block A, Samungli Road, Quetta, Pakistan",Wireless Earbuds,Electronics,3,3,Rs 9500,Rs 28500,Cash,2025-06-11,Pending,1
+ORD0213,CUST8294,Umer Hussain,Male,32,Sialkot,"House 538, Block A, Cantt Area, Sialkot, Pakistan",Smart Watch,Electronics,5,5,Rs 12000,Rs 60000,JazzCash,2026-04-18,Cancelled,3
+ORD0214,CUST2921,Hira Ansari,Male,40,Faisalabad,"House 314, Block E, People Colony, Faisalabad, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs.8500,JazzCash,2026-01-27,Cancelled,2
+ORD0215,CUST2910,Umer Hussain,Male,20,,"House 122, Block C, Model Town, Lahore, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,Credit Card,2025-07-03,Cancelled,5
+ORD0216,CUST9310,Usman Qureshi,Male,31,Peshawar,"House 536, Block A, University Town, Peshawar, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,EasyPaisa,2025-05-13,Pending,1
+ORD0217,CUST6167,Fatima Butt,Female,48,Multan,,Sneakers,Footwear,4,4,Rs 8500,34000 Rs,JazzCash,2025-08-23,Delivered,5
+ORD0218,CUST5020,Ahmed Khan,Female,44,Peshawar,"House 606, Block E, University Town, Peshawar, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,Debit Card,2025-09-20,Delivered,3
+ORD0219,CUST9389,Zainab Qureshi,Male,41,Quetta,"House 390, Block D, Samungli Road, Quetta, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Credit Card,2025-07-20,Cancelled,1
+ORD0220,CUST7558,Hamza Hussain,Male,25,Sialkot,"House 246, Block A, Paris Road, Sialkot, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,Credit Card,2025-06-25,Pending,2
+ORD0221,CUST3842,Abdullah Ahmed,Female,55,Peshawar,"House 890, Block E, University Town, Peshawar, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,Cash,2025-09-19,Delivered,4
+ORD0222,CUST3183,Mahnoor Farooq,Female,55,Karachi,"House 18, Block D, DHA Phase 6, Karachi, Pakistan",Cap,Accessories,1,1,Rs 1800,Rs 1800,Cash,2026-02-21,Delivered,2
+ORD0223,CUST3545,Usman Siddiqui,Female,49,Quetta,"House 536, Block D, Jinnah Town, Quetta, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,JazzCash,2026-03-23,Cancelled,4
+ORD0224,CUST5374,Hamza Ahmed,Male,34,  SIALKOT ,"House 45, Block E, Cantt Area, Sialkot, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,PKR 7500,JazzCash,2025-08-13,Delivered,5
+ORD0225,CUST2131,Bilal Iqbal,Male,39,,"House 20, Block D, Hayatabad, Peshawar, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,EasyPaisa,2026-04-24,Delivered,3
+ORD0226,CUST8972,Ali Butt,Male,37,Sialkot,"House 775, Block E, Cantt Area, Sialkot, Pakistan",Backpack,Bags,2,2,Rs 4200,Rs 8400,EasyPaisa,2025-10-13,Pending,3
+ORD0227,CUST8286,Usman Siddiqui,Female,51,Rawalpindi,"House 562, Block D, Satellite Town, Rawalpindi, Pakistan",Wireless Earbuds,Electronics,5,5,Rs 9500,Rs 47500,Debit Card,2025-06-24,Delivered,5
+ORD0228,CUST4013,Mahnoor Iqbal,Male,20,Sialkot,"House 773, Block A, Paris Road, Sialkot, Pakistan",Cap,Accessories,1,1,Rs 1800,Rs 1800,JazzCash,2026-01-12,Cancelled,3
+ORD0229,CUST3364,Hussain Raza,Female,53,Rawalpindi,"House 822, Block E, Satellite Town, Rawalpindi, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,Credit Card,2025-12-21,Delivered,2
+ORD0230,CUST4334,Umer Hussain,Female,34,Hyderabad,"House 923, Block D, Qasimabad, Hyderabad, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,Credit Card,2025-06-23,Cancelled,5
+ORD0231,CUST9372,Ayesha Malik,Female,24,  QUETTA ,"House 866, Block E, Jinnah Town, Quetta, Pakistan",Jeans,Clothing,-1,1,Rs 4800,Rs 4800,JazzCash,2025-10-30,Pending,4
+ORD0232,CUST6965,Bilal Qureshi,Female,42,Lahore,"House 276, Block C, Bahria Town, Lahore, Pakistan",T-Shirt,Clothing,5,5,Rs 2500,Rs 12500,Credit Card,2026-04-01,Pending,5
+ORD0233,CUST9039,Abdullah Sheikh,Male,29,Faisalabad,"House 379, Block B, D Ground, Faisalabad, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,JazzCash,2026-02-22,Cancelled,2
+ORD0234,CUST1858,,Male,38,,"House 225, Block C, DHA Phase 4, Lahore, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,Credit Card,2025-06-17,Pending,1
+ORD0235,CUST4721,Hira Butt,Male,52,Lahore,"House 454, Block E, Bahria Town, Lahore, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,Credit Card,2026-01-14,Delivered,3
+ORD0236,CUST5782,Zainab Siddiqui,Male,42,Faisalabad,"House 181, Block D, People Colony, Faisalabad, Pakistan",Wireless Earbuds,Electronics,5,5,Rs 9500,Rs 47500,JazzCash,2025-08-17,Cancelled,5
+ORD0237,CUST9236,Ali Iqbal,Male,22,Lahore,"House 546, Block E, Model Town, Lahore, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,JazzCash,2025-12-05,Delivered,4
+ORD0238,CUST8204,Bilal Raza,Female,49,Lahore,"House 32, Block E, Johar Town, Lahore, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,JazzCash,2025-07-12,Delivered,1
+ORD0239,CUST3928,Hira Iqbal,Female,23,Karachi,"House 432, Block E, DHA Phase 6, Karachi, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,JazzCash,2025-11-01,delvrd,3
+ORD0240,CUST8459,Hassan Siddiqui,Female,51,Multan,"House 238, Block E, Gulgasht Colony, Multan, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,Rs 7500,JazzCash,2026-02-08,Delivered,3
+ORD0241,CUST2421,Ali Farooq,Female,22,,"House 88, Block E, Cantt Area, Sialkot, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Cash,2026-02-16,Cancelled,3
+ORD0242,CUST4521,Ahmed Ahmed,Male,45,Sialkot,"House 55, Block A, Cantt Area, Sialkot, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,JazzCash,2025-12-05,Pending,2
+ORD0243,CUST9579,Ayesha Khan,Female,46,Karachi,"House 483, Block A, North Nazimabad Block H, Karachi, Pakistan",Wireless Earbuds,Electronics,5,5,Rs 9500,Rs 47500,Debit Card,2026-02-06,Pending,1
+ORD0244,CUST3315,Bilal Hussain,Male,22,Karachi,"House 600, Block D, DHA Phase 6, Karachi, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,EasyPaisa,2025-08-18,Pending,1
+ORD0245,CUST9659,Laiba Raza,Male,23,Quetta,"House 373, Block C, Jinnah Town, Quetta, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,Credit Card,2025-07-30,Pending,1
+ORD0246,CUST4080,Muneeb Ansari,Female,24,Islamabad,"House 181, Block C, Bahria Enclave, Islamabad, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,Credit Card,2025-12-15,Cancelled,1
+ORD0247,CUST2837,Zainab Iqbal,Male,34,Multan,"House 48, Block A, Cantt, Multan, Pakistan",Jeans,Clothing,-5,5,Rs 4800,Rs 24000,EasyPaisa,2026-04-22,Delivered,4
+ORD0248,CUST7133,Sana Siddiqui,Male,37,Islamabad,"House 525, Block A, Bahria Enclave, Islamabad, Pakistan",Cap,Accessories,1,1,Rs 1800,Rs 1800,JazzCash,2026-03-01,Cancelled,1
+ORD0249,CUST1323,Laiba Raza,Female,-3,Sialkot,"House 193, Block C, Cantt Area, Sialkot, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Debit Card,2025-08-04,Pending,4
+ORD0250,CUST2669,Umer Siddiqui,Male,48,Quetta,"House 287, Block D, Samungli Road, Quetta, Pakistan",Wireless Earbuds,Electronics,3,3,Rs 9500,Rs 28500,EasyPaisa,2025-10-26,Cancelled,2
+ORD0251,CUST2257,Ali Butt,Male,29,Sialkot,"House 958, Block C, Paris Road, Sialkot, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,Credit Card,2025-07-01,Cancelled,2
+ORD0252,CUST6813,Hassan Ahmed,Female,22,Quetta,"House 351, Block B, Samungli Road, Quetta, Pakistan",T-Shirt,Clothing,5,5,Rs 2500,Rs 12500,EasyPaisa,2025-09-16,Delivered,2
+ORD0253,CUST4717,Sana Farooq,Male,-3,Sialkot,"House 246, Block B, Paris Road, Sialkot, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,EasyPaisa,2025-09-18,Pending,5
+ORD0254,CUST3920,Fatima Ansari,Female,49,Islamabad,"House 678, Block E, F-10, Islamabad, Pakistan",T-Shirt,Clothing,1,1,Rs 2500,Rs 2500,Credit Card,2025-10-28,Pending,1
+ORD0255,CUST8574,Hira Qureshi,Female,40,Sialkot,"House 714, Block D, Paris Road, Sialkot, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,Debit Card,2025-12-12,Delivered,2
+ORD0256,CUST8891,Sana Butt,Male,33,Islamabad,"House 887, Block E, Bahria Enclave, Islamabad, Pakistan",Perfume,Beauty,3,3,Rs 6500,Rs 19500,EasyPaisa,2026-05-01,Cancelled,3
+ORD0257,CUST1870,Hira Sheikh,Female,42,Karachi,"House 563, Block B, Clifton Block 5, Karachi, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Debit Card,2025-10-08,Pending,3
+ORD0258,CUST1888,Abdullah Butt,Male,34,Sialkot,"House 946, Block E, Paris Road, Sialkot, Pakistan",Wireless Earbuds,Electronics,-4,4,Rs 9500,Rs.38000,JazzCash,2025-12-06,Delivered,4
+ORD0259,CUST5626,Ayesha Qureshi,Male,28,Islamabad,"House 346, Block D, Bahria Enclave, Islamabad, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,Rs 3200,JazzCash,2025-10-28,Pending,2
+ORD0260,CUST2700,Ali Butt,Male,41,Quetta,"House 355, Block A, Jinnah Town, Quetta, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,PKR 12800,Credit Card,2026-02-08,Delivered,1
+ORD0261,CUST8213,Hassan Hussain,Female,54,Karachi,"House 475, Block A, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs 17000,Debit Card,2025-05-15,Cancelled,3
+ORD0262,CUST5116,Hamza Butt,Female,48,Quetta,"House 180, Block E, Jinnah Town, Quetta, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,JazzCash,2025-10-08,Pending,5
+ORD0263,CUST3689,Mahnoor Iqbal,Female,36,Hyderabad,"House 321, Block B, Qasimabad, Hyderabad, Pakistan",T-Shirt,Clothing,1,1,Rs 2500,Rs 2500,Credit Card,2025-07-30,Delivered,2
+ORD0264,CUST5867,Saad Farooq,Female,5,Multan,"House 193, Block E, Cantt, Multan, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,Credit Card,2025-09-16,Cancelled,4
+ORD0265,CUST2436,Hamza Ahmed,Female,33,Lahore,"House 171, Block B, DHA Phase 4, Lahore, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,EasyPaisa,2025-06-30,delvrd,1
+ORD0266,CUST8435,Abdullah Raza,Female,27,,"House 916, Block B, Chaklala Scheme 3, Rawalpindi, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,Debit Card,2025-08-08,Delivered,1
+ORD0267,CUST4851,Laiba Hussain,Female,29,Faisalabad,"House 604, Block C, People Colony, Faisalabad, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,Credit Card,2026-04-11,Cancelled,2
+ORD0268,CUST5464,Hassan Raza,Male,37,Sialkot,"House 859, Block E, Cantt Area, Sialkot, Pakistan",Perfume,Beauty,3,3,Rs 6500,Rs 19500,Cash,2025-08-17,Delivered,5
+ORD0269,CUST6304,Mahnoor Sheikh,Female,43,Karachi,"House 964, Block C, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,JazzCash,2025-12-08,Cancelled,1
+ORD0270,CUST9298,Laiba Sheikh,Female,55,Quetta,,Smart Watch,Electronics,4,4,Rs 12000,Rs 48000,Cash,2025-11-09,Pending,1
+ORD0271,CUST3878,Abdullah Iqbal,Male,32,Faisalabad,"House 851, Block D, D Ground, Faisalabad, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Credit Card,2026-01-18,Delivered,3
+ORD0272,CUST8168,Abdullah Khan,Female,47,Peshawar,"House 547, Block C, University Town, Peshawar, Pakistan",Perfume,Beauty,1,1,Rs 6500,Rs 6500,Debit Card,2026-03-13,Delivered,1
+ORD0273,CUST5658,Saad Ansari,Female,45,Faisalabad,"House 766, Block D, People Colony, Faisalabad, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Cash,2025-06-18,Pending,4
+ORD0274,CUST7549,Ali Farooq,Male,40,Multan,"House 619, Block D, Cantt, Multan, Pakistan",Backpack,Bags,2,2,Rs 4200,Rs 8400,Credit Card,2025-11-13,Pending,5
+ORD0275,CUST1486,Laiba Raza,Female,21,Faisalabad,"House 470, Block E, People Colony, Faisalabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,EasyPaisa,2025-10-16,Delivered,4
+ORD0276,CUST3433,Abdullah Butt,Female,44,Faisalabad,"House 976, Block D, D Ground, Faisalabad, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,Cash,2025-12-03,Cancelled,1
+ORD0277,CUST3352,Muneeb Malik,Male,52,Rawalpindi,"House 992, Block B, Chaklala Scheme 3, Rawalpindi, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,Cash,2025-11-16,Pending,1
+ORD0278,CUST3742,Hassan Siddiqui,Male,45,Lahore,"House 725, Block A, Johar Town, Lahore, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,Cash,2025-09-14,Pending,3
+ORD0279,CUST1967,Umer Iqbal,Female,51,Sialkot,"House 265, Block E, Paris Road, Sialkot, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,Credit Card,2025-11-07,Delivered,4
+ORD0280,CUST9264,Bilal Qureshi,Male,32,Karachi,"House 754, Block D, Clifton Block 5, Karachi, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Credit Card,2026-02-17,Pending,2
+ORD0281,CUST9454,,Female,35,Faisalabad,"House 845, Block E, People Colony, Faisalabad, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,Debit Card,2025-07-07,Delivered,2
+ORD0282,CUST2426,Abdullah Butt,Male,18,Peshawar,"House 406, Block D, University Town, Peshawar, Pakistan",T-Shirt,Clothing,5,5,Rs 2500,Rs 12500,Cash,2026-01-30,Cancelled,3
+ORD0283,CUST4488,Taimoor Ansari,Female,25,Multan,"House 218, Block B, Gulgasht Colony, Multan, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,Cash,2025-06-30,Pending,1
+ORD0284,CUST9509,Laiba Farooq,Male,35,Lahore,"House 580, Block C, Johar Town, Lahore, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,Debit Card,2025-06-23,Delivered,2
+ORD0285,CUST7151,Usman Sheikh,Male,48,Quetta,"House 794, Block E, Samungli Road, Quetta, Pakistan",Hoodie,Clothing,-3,3,Rs 5500,PKR 16500,Credit Card,2025-08-05,Pending,1
+ORD0286,CUST1143,Hira Farooq,Female,40,Hyderabad,"House 293, Block B, Qasimabad, Hyderabad, Pakistan",Smart Watch,Electronics,5,5,Rs 12000,Rs 60000,JazzCash,2025-07-17,Cancelled,2
+ORD0287,CUST4396,Hamza Ansari,Male,54,Multan,"House 303, Block A, Gulgasht Colony, Multan, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Debit Card,2025-07-20,Pending,4
+ORD0288,CUST5232,Umer Butt,Male,42,Islamabad,"House 86, Block C, G-13, Islamabad, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Cash,2025-08-13,Cancelled,2
+ORD0289,CUST1111,Hamza Iqbal,Female,55,Islamabad,"House 68, Block B, Bahria Enclave, Islamabad, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,Rs 7500,JazzCash,2025-06-25,Pending,1
+ORD0290,CUST5954,Mahnoor Ansari,Female,22,,"House 461, Block D, Paris Road, Sialkot, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,EasyPaisa,2026-01-02,Delivered,5
+ORD0291,CUST8558,Bilal Ansari,Male,34,Lahore,"House 568, Block C, Model Town, Lahore, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,Credit Card,2026-02-19,Delivered,2
+ORD0292,CUST6435,Ayesha Iqbal,Male,47,Karachi,"House 340, Block D, DHA Phase 6, Karachi, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,EasyPaisa,2025-07-18,Pending,5
+ORD0293,CUST1267,Fatima Butt,Male,36,Faisalabad,"House 793, Block E, D Ground, Faisalabad, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,Rs 3200,EasyPaisa,2025-08-31,Pending,2
+ORD0294,CUST3455,Hussain Raza,Female,25,Peshawar,"House 593, Block D, Hayatabad, Peshawar, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,Credit Card,2025-11-20,Pending,4
+ORD0295,CUST7448,Laiba Sheikh,Male,50,Lahore,"House 52, Block B, Bahria Town, Lahore, Pakistan",Sneakers,Footwear,3,3,Rs 8500,25500,Cash,2025-10-01,Cancelled,3
+ORD0296,CUST2850,Saad Raza,Female,27,Quetta,"House 39, Block D, Jinnah Town, Quetta, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,PKR 6400,Debit Card,2025-10-12,Pending,3
+ORD0297,CUST2741,Usman Sheikh,Female,42,Karachi,"House 598, Block A, Clifton Block 5, Karachi, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs 17000,Credit Card,2025-08-08,Cancelled,4
+ORD0298,CUST9583,Hassan Sheikh,Female,45,Lahore,"House 913, Block B, Model Town, Lahore, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,JazzCash,2025-10-22,Pending,5
+ORD0299,CUST6094,Zainab Hussain,Female,30,Islamabad,"House 611, Block B, Bahria Enclave, Islamabad, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,Debit Card,2025-12-13,Delivered,3
+ORD0300,CUST9654,Abdullah Siddiqui,Male,20,Hyderabad,"House 106, Block C, Qasimabad, Hyderabad, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,JazzCash,2025-12-21,Cancelled,1
+ORD0301,CUST1360,Ahmed Ahmed,Female,21,Quetta,"House 734, Block E, Jinnah Town, Quetta, Pakistan",Cap,Accessories,5,5,Rs 1800,Rs 9000,Credit Card,2025-11-19,Cancelled,3
+ORD0302,CUST4463,Hussain Qureshi,Male,33,Karachi,"House 150, Block E, PECHS Block 2, Karachi, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,Debit Card,2026-01-16,Delivered,5
+ORD0303,CUST6326,Fatima Farooq,Male,51,Rawalpindi,,Smart Watch,Electronics,1,1,Rs 12000,Rs.12000,Cash,2025-06-17,Pending,5
+ORD0304,CUST4301,Laiba Iqbal,Male,29,Hyderabad,"House 189, Block C, Latifabad Unit 7, Hyderabad, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Credit Card,2026-02-17,Pending,5
+ORD0305,CUST5617,Hussain Sheikh,Female,25,Peshawar,"House 122, Block A, Hayatabad, Peshawar, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs 17000,Credit Card,2025-06-22,Cancelled,3
+ORD0306,CUST5689,Hassan Khan,Male,50,  KARACHI ,"House 888, Block D, North Nazimabad Block H, Karachi, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs.17000,Credit Card,2025-06-14,Pending,3
+ORD0307,CUST9177,Zainab Malik,Male,40,Faisalabad,"House 355, Block D, People Colony, Faisalabad, Pakistan",Jeans,Clothing,4,4,Rs 4800,Rs 19200,JazzCash,2026-01-16,Delivered,1
+ORD0308,CUST4417,Fatima Farooq,Male,47,Faisalabad,"House 137, Block A, People Colony, Faisalabad, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,Credit Card,2025-12-16,Delivered,4
+ORD0309,CUST9538,Abdullah Butt,Female,37,Rawalpindi,"House 335, Block B, Chaklala Scheme 3, Rawalpindi, Pakistan",Smart Watch,Electronics,2,2,Rs 12000,Rs 24000,Credit Card,2026-02-05,Cancelled,3
+ORD0310,CUST9365,Taimoor Ansari,Male,51,Islamabad,"House 22, Block D, G-13, Islamabad, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,Credit Card,2026-04-19,Pending,2
+ORD0311,CUST3040,Abdullah Qureshi,Male,49,Islamabad,"House 181, Block D, Bahria Enclave, Islamabad, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Credit Card,2026-02-12,Pending,1
+ORD0312,CUST7241,Saad Raza,Male,42,Hyderabad,"House 488, Block B, Qasimabad, Hyderabad, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,EasyPaisa,2025-11-28,Pending,2
+ORD0313,CUST6476,Hamza Sheikh,Female,55,Multan,"House 44, Block C, Cantt, Multan, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,EasyPaisa,2025-05-12,Cancelled,2
+ORD0314,CUST4358,Zainab Raza,Female,28,Sialkot,"House 356, Block A, Paris Road, Sialkot, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,JazzCash,2025-09-22,Pending,4
+ORD0315,CUST5472,Saad Iqbal,Female,55,Quetta,"House 339, Block A, Samungli Road, Quetta, Pakistan",Wireless Earbuds,Electronics,4,4,Rs 9500,Rs 38000,EasyPaisa,2026-01-23,Pending,5
+ORD0316,CUST2887,Hussain Ahmed,Female,50,Peshawar,"House 264, Block C, Hayatabad, Peshawar, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,Cash,2026-03-28,Pending,5
+ORD0317,CUST1055,Saad Ansari,Female,48,Faisalabad,"House 532, Block C, D Ground, Faisalabad, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,Credit Card,2026-03-22,Cancelled,3
+ORD0318,CUST2465,Taimoor Khan,Male,18,Karachi,"House 30, Block E, North Nazimabad Block H, Karachi, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,Cash,2025-08-07,Cancelled,4
+ORD0319,CUST8297,Ayesha Siddiqui,Male,41,Islamabad,"House 40, Block E, F-10, Islamabad, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,JazzCash,2026-01-13,Pending,2
+ORD0320,CUST3378,Saad Ansari,Male,44,Sialkot,"House 251, Block B, Cantt Area, Sialkot, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,EasyPaisa,2025-06-14,Delivered,1
+ORD0321,CUST5626,Taimoor Siddiqui,Female,48,Rawalpindi,"House 471, Block B, Satellite Town, Rawalpindi, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,Rs 3200,EasyPaisa,2026-02-16,Pending,5
+ORD0322,CUST1622,Ali Sheikh,Female,20,Peshawar,"House 14, Block A, Hayatabad, Peshawar, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,EasyPaisa,2025-09-30,Delivered,1
+ORD0323,CUST3667,Ahmed Hussain,Female,35,  RAWALPINDI ,"House 741, Block E, Satellite Town, Rawalpindi, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,EasyPaisa,2025-08-18,Delivered,4
+ORD0324,CUST9726,Laiba Iqbal,Female,49,Faisalabad,"House 970, Block E, D Ground, Faisalabad, Pakistan",Backpack,Bags,5,5,Rs 4200,Rs 21000,JazzCash,2025-05-15,Delivered,2
+ORD0325,CUST1464,Abdullah Iqbal,Female,34,Quetta,"House 927, Block C, Jinnah Town, Quetta, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,Debit Card,2025-10-19,Delivered,4
+ORD0326,CUST2998,Zainab Malik,Female,32,Quetta,"House 407, Block A, Samungli Road, Quetta, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,Credit Card,2026-03-18,Pending,2
+ORD0327,CUST8170,Usman Farooq,Male,40,Karachi,"House 320, Block D, Clifton Block 5, Karachi, Pakistan",T-Shirt,Clothing,5,5,Rs 2500,Rs 12500,JazzCash,2025-06-26,Cancelled,2
+ORD0328,CUST1016,Hassan Sheikh,Male,29,Lahore,"House 632, Block A, Johar Town, Lahore, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,Rs 3200,JazzCash,2025-10-15,Delivered,4
+ORD0329,CUST5781,Hussain Hussain,Male,35,Karachi,"House 196, Block D, DHA Phase 6, Karachi, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,JazzCash,2025-05-10,Cancelled,2
+ORD0330,CUST3958,Usman Qureshi,Male,23,Rawalpindi,"House 963, Block A, Satellite Town, Rawalpindi, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,JazzCash,2025-05-15,Delivered,1
+ORD0331,CUST7464,Abdullah Farooq,Female,29,Quetta,"House 21, Block A, Samungli Road, Quetta, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,Cash,2026-02-06,Delivered,5
+ORD0332,CUST5174,Mahnoor Siddiqui,Male,37,Multan,"House 638, Block A, Gulgasht Colony, Multan, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,Debit Card,2026-02-18,Delivered,1
+ORD0333,CUST7814,Ahmed Iqbal,Female,26,Hyderabad,"House 486, Block C, Qasimabad, Hyderabad, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,EasyPaisa,2025-10-06,Pending,5
+ORD0334,CUST7787,Ali Sheikh,Male,33,Sialkot,"House 8, Block B, Paris Road, Sialkot, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,Debit Card,2026-01-10,Cancelled,4
+ORD0335,CUST9872,,Female,33,Lahore,"House 707, Block A, Bahria Town, Lahore, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,,2025-06-22,Cancelled,5
+ORD0336,CUST3563,Umer Farooq,Female,30,  FAISALABAD ,"House 623, Block C, D Ground, Faisalabad, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,EasyPaisa,2025-09-02,DONE,3
+ORD0337,CUST3211,Sana Farooq,Female,49,Multan,"House 3, Block A, Gulgasht Colony, Multan, Pakistan",Wireless Earbuds,Electronics,3,3,Rs 9500,Rs 28500,Debit Card,2026-03-17,Pending,4
+ORD0338,CUST8330,Umer Farooq,Female,31,Quetta,"House 849, Block A, Jinnah Town, Quetta, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,JazzCash,2025-11-10,Cancelled,2
+ORD0339,CUST1548,Ali Ahmed,Female,33,Peshawar,"House 489, Block A, Hayatabad, Peshawar, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,Cash,2025-07-25,Pending,4
+ORD0340,CUST7741,Fatima Ahmed,Female,27,Hyderabad,"House 319, Block B, Latifabad Unit 7, Hyderabad, Pakistan",Backpack,Bags,5,5,Rs 4200,Rs 21000,EasyPaisa,2026-01-17,Delivered,1
+ORD0341,CUST5796,,Male,52,Sialkot,"House 873, Block E, Cantt Area, Sialkot, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,Credit Card,2025-11-01,Pending,4
+ORD0342,CUST2467,Bilal Hussain,Male,22,Karachi,"House 697, Block B, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Smart Watch,Electronics,4,4,Rs 12000,Rs 48000,JazzCash,2025-10-20,Delivered,2
+ORD0343,CUST3233,Ali Farooq,Female,55,Multan,"House 265, Block C, Cantt, Multan, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,Rs 7500,EasyPaisa,2025-11-29,Cancelled,3
+ORD0344,CUST9390,Ayesha Iqbal,Male,41,Faisalabad,"House 452, Block B, D Ground, Faisalabad, Pakistan",Cap,Accessories,-2,2,Rs 1800,Rs 3600,EasyPaisa,2026-01-28,Delivered,5
+ORD0345,CUST7641,Ayesha Iqbal,Male,18,Quetta,"House 508, Block B, Jinnah Town, Quetta, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,EasyPaisa,2025-06-25,Cancelled,5
+ORD0346,CUST3072,Laiba Ansari,Female,24,  KARACHI ,"House 238, Block D, PECHS Block 2, Karachi, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,JazzCash,2025-10-11,Cancelled,2
+ORD0347,CUST4426,Taimoor Raza,Male,51,Quetta,"House 368, Block A, Jinnah Town, Quetta, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,JazzCash,2025-06-03,Pending,5
+ORD0348,CUST3973,Taimoor Iqbal,Male,37,Quetta,"House 879, Block C, Samungli Road, Quetta, Pakistan",Jeans,Clothing,4,4,Rs 4800,Rs 19200,EasyPaisa,2025-08-21,Delivered,5
+ORD0349,CUST1893,Sana Ansari,Male,25,Rawalpindi,"House 717, Block E, Satellite Town, Rawalpindi, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,Debit Card,2026-01-09,Delivered,2
+ORD0350,CUST4891,Ali Sheikh,Female,50,Rawalpindi,"House 264, Block D, Satellite Town, Rawalpindi, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,Credit Card,2025-09-08,Delivered,5
+ORD0351,CUST3382,Fatima Qureshi,Female,51,  PESHAWAR ,"House 534, Block B, University Town, Peshawar, Pakistan",T-Shirt,Clothing,1,1,Rs 2500,Rs 2500,Debit Card,2026-02-16,Pending,5
+ORD0352,CUST9259,Ayesha Siddiqui,Female,50,Multan,"House 344, Block D, Gulgasht Colony, Multan, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,Cash,2025-05-31,Cancelled,4
+ORD0353,CUST5888,Fatima Khan,Male,22,Quetta,"House 696, Block A, Jinnah Town, Quetta, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,Debit Card,2026-01-12,Delivered,3
+ORD0354,CUST9440,Umer Butt,Female,41,Sialkot,"House 245, Block E, Cantt Area, Sialkot, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,Debit Card,2025-09-16,Pending,3
+ORD0355,CUST5174,Zainab Hussain,Male,28,Sialkot,"House 855, Block B, Cantt Area, Sialkot, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,Debit Card,2026-03-04,Pending,3
+ORD0356,CUST2132,Laiba Iqbal,Male,39,Sialkot,"House 697, Block A, Paris Road, Sialkot, Pakistan",Sneakers,Footwear,1,1,Rs 8500,8500 Rs,Debit Card,2025-12-31,Pending,3
+ORD0357,CUST2329,Saad Sheikh,Male,21,Faisalabad,"House 461, Block C, D Ground, Faisalabad, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,EasyPaisa,2026-03-19,Cancelled,5
+ORD0358,CUST1785,Ali Siddiqui,Male,27,Karachi,"House 616, Block C, Clifton Block 5, Karachi, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,EasyPaisa,2025-08-12,Cancelled,2
+ORD0359,CUST7164,Hira Farooq,Female,19,Peshawar,"House 969, Block B, University Town, Peshawar, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Cash,2025-06-07,Cancelled,3
+ORD0360,CUST1053,Bilal Farooq,Male,52,Hyderabad,"House 394, Block E, Latifabad Unit 7, Hyderabad, Pakistan",T-Shirt,Clothing,3,3,Rs 2500,Rs.7500,EasyPaisa,2025-08-14,Cancelled,3
+ORD0361,CUST7078,Bilal Qureshi,Male,5,Karachi,"House 709, Block E, North Nazimabad Block H, Karachi, Pakistan",Smart Watch,Electronics,5,5,Rs 12000,Rs 60000,Debit Card,2026-03-02,Delivered,4
+ORD0362,CUST3156,Hussain Siddiqui,Male,40,Rawalpindi,"House 906, Block C, Satellite Town, Rawalpindi, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,JazzCash,2026-02-09,Cancelled,3
+ORD0363,CUST2702,,Female,30,Peshawar,"House 852, Block B, Hayatabad, Peshawar, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,Cash,2025-05-22,Cancelled,1
+ORD0364,CUST6754,Bilal Sheikh,Male,29,Multan,"House 292, Block A, Gulgasht Colony, Multan, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,Cash,2025-12-13,Delivered,5
+ORD0365,CUST2239,Abdullah Sheikh,Female,42,Lahore,"House 591, Block A, Johar Town, Lahore, Pakistan",Backpack,Bags,2,2,Rs 4200,Rs 8400,Cash,2025-07-14,Cancelled,2
+ORD0366,CUST2592,Saad Iqbal,Male,33,Hyderabad,"House 373, Block A, Latifabad Unit 7, Hyderabad, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Credit Card,2026-01-12,Delivered,3
+ORD0367,CUST5087,Hassan Khan,Female,48,Multan,"House 887, Block E, Cantt, Multan, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,Cash,2026-03-29,Delivered,3
+ORD0368,CUST7959,Ayesha Farooq,Female,31,,"House 412, Block E, Bahria Enclave, Islamabad, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Debit Card,2025-08-14,Pending,2
+ORD0369,CUST4364,Ahmed Sheikh,Female,37,Karachi,"House 206, Block E, PECHS Block 2, Karachi, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,EasyPaisa,2026-04-28,Delivered,4
+ORD0370,CUST1595,Hamza Khan,Male,18,Karachi,"House 939, Block B, Clifton Block 5, Karachi, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,EasyPaisa,2025-06-29,Delivered,2
+ORD0371,CUST6420,Ali Khan,Male,35,Islamabad,"House 38, Block E, G-13, Islamabad, Pakistan",Backpack,Bags,2,2,Rs 4200,Rs 8400,EasyPaisa,2025-05-27,Cancelled,1
+ORD0372,CUST4389,Abdullah Butt,Female,26,Faisalabad,"House 744, Block A, People Colony, Faisalabad, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,JazzCash,2025-07-09,Delivered,3
+ORD0373,CUST4577,Saad Ansari,Male,23,Karachi,"House 678, Block C, North Nazimabad Block H, Karachi, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,EasyPaisa,2026-03-25,Cancelled,1
+ORD0374,CUST4385,Usman Ansari,Female,49,Peshawar,"House 646, Block B, University Town, Peshawar, Pakistan",Backpack,Bags,4,4,Rs 4200,16800,Cash,2026-03-14,Cancelled,3
+ORD0375,CUST4099,Hira Malik,Female,37,  HYDERABAD ,"House 983, Block E, Qasimabad, Hyderabad, Pakistan",Hoodie,Clothing,-2,2,Rs 5500,Rs 11000,Debit Card,2025-06-19,Delivered,5
+ORD0376,CUST3434,Hassan Khan,Male,48,Lahore,"House 594, Block C, Model Town, Lahore, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,Credit Card,2026-04-25,Pending,1
+ORD0377,CUST7682,Ali Ahmed,Male,31,Hyderabad,,Sneakers,Footwear,5,5,Rs 8500,Rs 42500,Debit Card,2025-08-05,Pending,1
+ORD0378,CUST1835,Hira Khan,Female,19,Lahore,"House 241, Block A, Bahria Town, Lahore, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,EasyPaisa,2025-08-25,Pending,5
+ORD0379,CUST3483,,Female,44,Peshawar,"House 616, Block D, University Town, Peshawar, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,Credit Card,2025-07-16,Pending,2
+ORD0380,CUST9722,Fatima Raza,Male,26,Islamabad,"House 856, Block D, G-13, Islamabad, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,EasyPaisa,2026-04-14,Delivered,2
+ORD0381,CUST6107,Muneeb Sheikh,Female,20,Multan,"House 673, Block E, Cantt, Multan, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,Cash,2026-01-08,Delivered,4
+ORD0382,CUST5659,Hassan Butt,Female,35,Sialkot,"House 476, Block E, Cantt Area, Sialkot, Pakistan",Cap,Accessories,5,5,Rs 1800,Rs 9000,Credit Card,2025-11-10,Pending,4
+ORD0383,CUST8812,Hussain Qureshi,Female,22,Hyderabad,"House 491, Block B, Latifabad Unit 7, Hyderabad, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,Debit Card,2025-08-17,Cancelled,3
+ORD0384,CUST1905,Fatima Sheikh,Male,39,Lahore,"House 409, Block B, DHA Phase 4, Lahore, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,Debit Card,2025-06-23,Pending,5
+ORD0385,CUST4362,Mahnoor Farooq,Male,42,Quetta,"House 438, Block C, Samungli Road, Quetta, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,JazzCash,2025-10-24,Cancelled,5
+ORD0386,CUST1823,Umer Khan,Male,33,Hyderabad,"House 710, Block C, Qasimabad, Hyderabad, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,EasyPaisa,2026-02-11,Cancelled,4
+ORD0387,CUST7262,Abdullah Khan,Female,20,Islamabad,"House 464, Block D, F-10, Islamabad, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Cash,2026-01-19,Delivered,1
+ORD0388,CUST7491,Zainab Qureshi,Female,33,Peshawar,"House 102, Block D, University Town, Peshawar, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,Credit Card,2025-10-26,Cancelled,1
+ORD0389,CUST7997,Ayesha Raza,Female,37,  PESHAWAR ,"House 984, Block A, University Town, Peshawar, Pakistan",Smart Watch,Electronics,5,5,Rs 12000,Rs 60000,EasyPaisa,2025-08-25,Delivered,5
+ORD0390,CUST7798,Abdullah Sheikh,Male,41,Quetta,"House 200, Block B, Samungli Road, Quetta, Pakistan",Backpack,Bags,2,2,Rs 4200,Rs 8400,Debit Card,2025-08-06,Pending,2
+ORD0391,CUST5419,Fatima Ahmed,Female,34,Islamabad,"House 957, Block B, G-13, Islamabad, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,Credit Card,2025-05-19,Pending,5
+ORD0392,CUST2447,Ahmed Hussain,Female,43,Faisalabad,"House 673, Block B, People Colony, Faisalabad, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,Credit Card,2026-03-04,Cancelled,3
+ORD0393,CUST5498,Mahnoor Khan,Female,44,Faisalabad,"House 875, Block E, D Ground, Faisalabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,PKR 12000,Credit Card,2026-04-15,Pending,5
+ORD0394,CUST6650,Ayesha Ahmed,Female,46,Hyderabad,"House 860, Block E, Qasimabad, Hyderabad, Pakistan",Wireless Earbuds,Electronics,4,4,Rs 9500,Rs 38000,Cash,2025-12-24,Cancelled,3
+ORD0395,CUST9906,Saad Ansari,Female,51,Multan,"House 308, Block D, Gulgasht Colony, Multan, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,EasyPaisa,2026-01-05,Cancelled,4
+ORD0396,CUST7005,Laiba Butt,Female,53,Islamabad,"House 100, Block D, F-10, Islamabad, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,,2026-02-01,Cancelled,2
+ORD0397,CUST3365,Ali Ansari,Male,26,Multan,"House 144, Block E, Cantt, Multan, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,Cash,2025-10-04,Pending,5
+ORD0398,CUST8808,Mahnoor Ahmed,Male,33,Lahore,"House 450, Block A, Model Town, Lahore, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,Debit Card,2025-12-06,Pending,1
+ORD0399,CUST1615,Ayesha Siddiqui,Male,55,Multan,"House 806, Block E, Cantt, Multan, Pakistan",Sneakers,Footwear,-1,1,Rs 8500,Rs 8500,EasyPaisa,2025-08-10,Cancelled,3
+ORD0400,CUST1848,Mahnoor Ansari,Male,38,Multan,"House 414, Block A, Cantt, Multan, Pakistan",Wireless Earbuds,Electronics,3,3,Rs 9500,Rs 28500,Cash,2025-05-13,Cancelled,2
+ORD0401,CUST4670,Sana Raza,Female,32,Peshawar,"House 512, Block E, Hayatabad, Peshawar, Pakistan",Sneakers,Footwear,4,4,Rs 8500,Rs 34000,JazzCash,2025-11-22,Delivered,3
+ORD0402,CUST8031,Ayesha Farooq,Female,22,Peshawar,"House 964, Block E, Hayatabad, Peshawar, Pakistan",Cap,Accessories,2,2,Rs 1800,Rs 3600,Debit Card,2025-07-28,Delivered,1
+ORD0403,CUST1147,Hassan Ahmed,Male,54,Faisalabad,"House 344, Block D, D Ground, Faisalabad, Pakistan",Cap,Accessories,5,5,Rs 1800,Rs 9000,Debit Card,2025-06-25,unknown,4
+ORD0404,CUST2272,Hira Sheikh,Female,54,Rawalpindi,"House 212, Block D, Satellite Town, Rawalpindi, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,Cash,2026-04-27,Delivered,5
+ORD0405,CUST7292,Ahmed Sheikh,Male,50,Islamabad,"House 613, Block A, F-10, Islamabad, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,EasyPaisa,2025-09-22,Delivered,5
+ORD0406,CUST6963,Usman Sheikh,Female,53,Peshawar,"House 996, Block A, Hayatabad, Peshawar, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,JazzCash,2025-06-29,Delivered,1
+ORD0407,CUST6196,Bilal Farooq,Female,5,Quetta,"House 633, Block E, Samungli Road, Quetta, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Cash,2025-10-08,Pending,2
+ORD0408,CUST5538,Muneeb Farooq,Female,43,Rawalpindi,"House 734, Block A, Satellite Town, Rawalpindi, Pakistan",Cap,Accessories,2,2,Rs 1800,PKR 3600,Credit Card,2025-06-23,Cancelled,4
+ORD0409,CUST5088,Bilal Qureshi,Male,26,Peshawar,"House 856, Block E, Hayatabad, Peshawar, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,EasyPaisa,2025-06-03,Pending,1
+ORD0410,CUST3202,Usman Hussain,Female,25,Hyderabad,"House 738, Block E, Qasimabad, Hyderabad, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,JazzCash,2025-07-26,Cancelled,2
+ORD0411,CUST6132,Usman Ahmed,Male,29,Faisalabad,"House 962, Block C, People Colony, Faisalabad, Pakistan",Perfume,Beauty,1,1,Rs 6500,Rs 6500,EasyPaisa,2025-11-18,Delivered,1
+ORD0412,CUST9649,Mahnoor Hussain,Female,35,Quetta,"House 963, Block C, Samungli Road, Quetta, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,PKR 16000,Credit Card,2025-12-27,Pending,2
+ORD0413,CUST3907,Hira Khan,Female,39,Lahore,"House 688, Block C, Model Town, Lahore, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,Debit Card,2026-01-04,Cancelled,5
+ORD0414,CUST8344,Fatima Iqbal,Male,44,Quetta,"House 734, Block E, Jinnah Town, Quetta, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Debit Card,2025-06-28,Cancelled,1
+ORD0415,CUST3608,Usman Siddiqui,Female,32,Faisalabad,"House 715, Block A, People Colony, Faisalabad, Pakistan",Hoodie,Clothing,3,3,Rs 5500,Rs 16500,Cash,2025-08-08,Cancelled,5
+ORD0416,CUST5905,Laiba Raza,Male,30,Rawalpindi,"House 530, Block D, Chaklala Scheme 3, Rawalpindi, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Cash,2026-04-01,Pending,5
+ORD0417,CUST8086,Ayesha Khan,Female,32,Quetta,"House 353, Block E, Samungli Road, Quetta, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,Credit Card,2026-03-21,Pending,2
+ORD0418,CUST8594,Taimoor Iqbal,Male,47,Islamabad,"House 491, Block C, G-13, Islamabad, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,Cash,2025-12-27,Delivered,3
+ORD0419,CUST4583,Laiba Sheikh,Female,22,Peshawar,"House 558, Block E, Hayatabad, Peshawar, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,JazzCash,2025-05-26,Pending,5
+ORD0420,CUST5651,Fatima Malik,Female,38,Islamabad,"House 493, Block B, G-13, Islamabad, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,EasyPaisa,2025-07-24,Pending,4
+ORD0421,CUST9721,Hira Raza,Female,35,Islamabad,"House 751, Block B, F-10, Islamabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,JazzCash,2026-04-10,Delivered,5
+ORD0422,CUST9105,Ali Butt,Female,51,Sialkot,"House 672, Block A, Cantt Area, Sialkot, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Credit Card,2025-07-10,Cancelled,2
+ORD0423,CUST7110,Abdullah Khan,Female,55,Rawalpindi,"House 104, Block D, Chaklala Scheme 3, Rawalpindi, Pakistan",Perfume,Beauty,3,3,Rs 6500,Rs 19500,JazzCash,2026-03-05,Cancelled,3
+ORD0424,CUST4171,Zainab Siddiqui,Male,33,Peshawar,"House 431, Block E, Hayatabad, Peshawar, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,,2025-09-09,DONE,1
+ORD0425,CUST3257,Usman Iqbal,Male,45,Hyderabad,"House 713, Block E, Latifabad Unit 7, Hyderabad, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,EasyPaisa,2026-04-08,Cancelled,5
+ORD0426,CUST9080,Hira Iqbal,Female,21,Karachi,"House 56, Block D, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,JazzCash,2025-06-04,Delivered,4
+ORD0427,CUST2335,Saad Hussain,Female,42,Peshawar,"House 213, Block A, University Town, Peshawar, Pakistan",Cap,Accessories,2,2,Rs 1800,Rs 3600,EasyPaisa,2026-01-16,Pending,1
+ORD0428,CUST6072,Ayesha Hussain,Female,49,Rawalpindi,"House 581, Block C, Satellite Town, Rawalpindi, Pakistan",T-Shirt,Clothing,1,1,Rs 2500,Rs 2500,Credit Card,2025-06-15,Delivered,1
+ORD0429,CUST8936,Hassan Iqbal,Female,21,Multan,"House 544, Block B, Gulgasht Colony, Multan, Pakistan",Backpack,Bags,3,3,Rs 4200,12600,EasyPaisa,2025-08-22,Cancelled,2
+ORD0430,CUST6372,Ali Iqbal,Male,24,,"House 598, Block C, Jinnah Town, Quetta, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Credit Card,2025-05-29,Cancelled,2
+ORD0431,CUST8752,Bilal Sheikh,Male,51,Multan,,Hoodie,Clothing,2,2,Rs 5500,PKR 11000,EasyPaisa,2026-03-01,Cancelled,1
+ORD0432,CUST4750,Hussain Qureshi,Male,54,Islamabad,"House 999, Block A, F-10, Islamabad, Pakistan",Smart Watch,Electronics,4,4,Rs 12000,Rs 48000,EasyPaisa,2026-01-15,Delivered,5
+ORD0433,CUST3833,Ahmed Khan,Male,52,Rawalpindi,"House 165, Block B, Satellite Town, Rawalpindi, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Cash,2025-10-16,Cancelled,3
+ORD0434,CUST2314,Hamza Butt,Female,48,Faisalabad,"House 685, Block D, People Colony, Faisalabad, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,JazzCash,2025-06-20,Delivered,2
+ORD0435,CUST5646,Abdullah Butt,Male,43,Sialkot,"House 494, Block B, Cantt Area, Sialkot, Pakistan",Jeans,Clothing,5,5,Rs 4800,Rs 24000,Cash,2025-11-19,Cancelled,2
+ORD0436,CUST9580,Hamza Hussain,Male,32,Faisalabad,"House 335, Block B, People Colony, Faisalabad, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,9600 Rs,Credit Card,2025-07-06,Pending,1
+ORD0437,CUST2889,Hira Khan,Female,45,Peshawar,"House 563, Block B, Hayatabad, Peshawar, Pakistan",T-Shirt,Clothing,5,5,Rs 2500,Rs 12500,Cash,2025-08-29,Pending,1
+ORD0438,CUST9417,Hira Qureshi,Male,39,Peshawar,"House 11, Block C, Hayatabad, Peshawar, Pakistan",Cap,Accessories,5,5,Rs 1800,Rs 9000,Cash,2026-04-23,DONE,4
+ORD0439,CUST5698,Ali Khan,Male,21,Hyderabad,"House 643, Block D, Latifabad Unit 7, Hyderabad, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,Cash,2025-07-25,Cancelled,3
+ORD0440,CUST2915,Ali Raza,Male,48,Peshawar,"House 607, Block E, University Town, Peshawar, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Credit Card,2026-01-25,Delivered,1
+ORD0441,CUST8405,Bilal Butt,Female,50,Faisalabad,"House 967, Block A, People Colony, Faisalabad, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,JazzCash,2025-09-24,Pending,4
+ORD0442,CUST2541,Muneeb Iqbal,Female,24,Islamabad,"House 881, Block A, G-13, Islamabad, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,EasyPaisa,2025-07-15,Pending,2
+ORD0443,CUST8789,Laiba Iqbal,Male,46,Karachi,"House 764, Block A, Clifton Block 5, Karachi, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Debit Card,2026-03-24,Cancelled,3
+ORD0444,CUST6781,Mahnoor Siddiqui,Male,-3,Karachi,"House 46, Block C, North Nazimabad Block H, Karachi, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,JazzCash,2026-03-10,Pending,4
+ORD0445,CUST4628,Hassan Siddiqui,Male,24,Faisalabad,"House 777, Block C, People Colony, Faisalabad, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,EasyPaisa,2025-06-16,Pending,3
+ORD0446,CUST8428,Hira Iqbal,Female,21,Karachi,"House 695, Block D, PECHS Block 2, Karachi, Pakistan",Smart Watch,Electronics,4,4,Rs 12000,Rs 48000,Debit Card,2025-10-18,Cancelled,1
+ORD0447,CUST7896,Ali Farooq,Female,45,Multan,"House 464, Block C, Gulgasht Colony, Multan, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,Credit Card,2025-07-18,Cancelled,1
+ORD0448,CUST6750,Ahmed Ahmed,Female,37,  HYDERABAD ,,Hoodie,Clothing,1,1,Rs 5500,Rs 5500,JazzCash,2026-03-06,Cancelled,1
+ORD0449,CUST6909,Umer Iqbal,Male,20,Sialkot,"House 467, Block E, Paris Road, Sialkot, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Debit Card,2026-02-13,Pending,4
+ORD0450,CUST2422,Zainab Malik,Male,33,Multan,"House 627, Block A, Cantt, Multan, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,Debit Card,2026-03-23,Cancelled,2
+ORD0451,CUST1568,Taimoor Iqbal,Male,38,Islamabad,"House 656, Block E, F-10, Islamabad, Pakistan",T-Shirt,Clothing,1,1,Rs 2500,Rs 2500,JazzCash,2025-08-28,Delivered,1
+ORD0452,CUST5725,Hussain Ansari,Male,50,Faisalabad,"House 859, Block E, People Colony, Faisalabad, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,Credit Card,2025-07-04,Pending,5
+ORD0453,CUST9158,Abdullah Khan,Female,46,Sialkot,"House 762, Block E, Cantt Area, Sialkot, Pakistan",Backpack,Bags,5,5,Rs 4200,Rs.21000,EasyPaisa,2025-09-30,Cancelled,1
+ORD0454,CUST9899,,Female,24,Peshawar,"House 362, Block D, University Town, Peshawar, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Credit Card,2025-07-03,Pending,1
+ORD0455,CUST9355,Bilal Farooq,Female,37,Islamabad,"House 11, Block C, F-10, Islamabad, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,5000,Debit Card,2025-10-29,Pending,1
+ORD0456,CUST2222,Sana Ahmed,Female,48,Hyderabad,"House 470, Block A, Qasimabad, Hyderabad, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,JazzCash,2026-03-06,Delivered,3
+ORD0457,CUST7760,Zainab Siddiqui,Female,38,Sialkot,"House 89, Block D, Cantt Area, Sialkot, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,Debit Card,2026-05-05,Pending,1
+ORD0458,CUST3504,Hamza Khan,Female,28,,"House 733, Block E, Cantt, Multan, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,JazzCash,2026-03-14,Delivered,3
+ORD0459,CUST3793,Sana Siddiqui,Female,26,Quetta,"House 965, Block E, Samungli Road, Quetta, Pakistan",Backpack,Bags,1,1,Rs 4200,Rs 4200,Credit Card,2025-12-29,Cancelled,4
+ORD0460,CUST3266,Mahnoor Sheikh,Female,37,Islamabad,"House 731, Block E, G-13, Islamabad, Pakistan",Jeans,Clothing,2,2,Rs 4800,Rs 9600,Debit Card,2026-01-12,Delivered,4
+ORD0461,CUST7116,Hira Siddiqui,Male,120,Islamabad,"House 697, Block E, Bahria Enclave, Islamabad, Pakistan",Smart Watch,Electronics,2,2,Rs 12000,Rs 24000,Debit Card,2025-05-09,Cancelled,3
+ORD0462,CUST5470,Taimoor Hussain,Female,28,Multan,"House 830, Block A, Gulgasht Colony, Multan, Pakistan",Sunglasses,Accessories,1,1,Rs 3200,Rs 3200,Credit Card,2026-04-20,Cancelled,5
+ORD0463,CUST9444,Hira Raza,Male,24,Multan,"House 44, Block B, Gulgasht Colony, Multan, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,Rs 10000,Cash,2025-10-14,Cancelled,2
+ORD0464,CUST9740,Mahnoor Ahmed,Male,27,Hyderabad,"House 888, Block D, Qasimabad, Hyderabad, Pakistan",Sunglasses,Accessories,2,2,Rs 3200,Rs 6400,Debit Card,2025-12-05,Cancelled,1
+ORD0465,CUST6584,Ali Hussain,Female,35,Quetta,"House 153, Block A, Jinnah Town, Quetta, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,EasyPaisa,2026-03-01,Cancelled,3
+ORD0466,CUST8091,Hussain Farooq,Male,24,Karachi,"House 86, Block B, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,EasyPaisa,2025-08-12,Delivered,1
+ORD0467,CUST6481,Hira Qureshi,Male,48,Karachi,"House 145, Block B, DHA Phase 6, Karachi, Pakistan",Wireless Earbuds,Electronics,4,4,Rs 9500,Rs 38000,Debit Card,2025-07-02,Pending,5
+ORD0468,CUST8003,Hamza Ansari,Male,46,Faisalabad,"House 357, Block B, People Colony, Faisalabad, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,10000,Cash,2025-11-18,Delivered,2
+ORD0469,CUST9988,Hussain Qureshi,Female,38,Faisalabad,"House 376, Block B, People Colony, Faisalabad, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Cash,2026-02-08,Delivered,5
+ORD0470,CUST7376,Umer Ahmed,Male,48,Karachi,"House 787, Block E, Clifton Block 5, Karachi, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,Debit Card,2026-01-25,Pending,4
+ORD0471,CUST9409,Saad Ansari,Female,31,Rawalpindi,"House 410, Block C, Satellite Town, Rawalpindi, Pakistan",Sneakers,Footwear,2,2,Rs 8500,Rs 17000,JazzCash,2026-01-25,Pending,2
+ORD0472,CUST4276,Hussain Ahmed,Female,53,Lahore,"House 91, Block D, DHA Phase 4, Lahore, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,Credit Card,2025-10-13,Delivered,3
+ORD0473,CUST1984,Usman Hussain,Female,50,Rawalpindi,"House 483, Block D, Satellite Town, Rawalpindi, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,EasyPaisa,2025-07-04,Delivered,2
+ORD0474,CUST1929,Usman Farooq,Female,51,Lahore,"House 811, Block D, Bahria Town, Lahore, Pakistan",Jeans,Clothing,4,4,Rs 4800,Rs 19200,,2026-02-25,Cancelled,2
+ORD0475,CUST6484,Zainab Ansari,Male,46,Faisalabad,"House 866, Block B, People Colony, Faisalabad, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Debit Card,2025-06-01,Delivered,1
+ORD0476,CUST1513,Hamza Farooq,Female,35,Faisalabad,"House 576, Block A, People Colony, Faisalabad, Pakistan",T-Shirt,Clothing,4,4,Rs 2500,PKR 10000,Credit Card,2026-03-22,Pending,2
+ORD0477,CUST1669,Zainab Iqbal,Male,41,Islamabad,"House 424, Block C, F-10, Islamabad, Pakistan",Perfume,Beauty,5,5,Rs 6500,Rs 32500,Cash,2025-11-18,Cancelled,5
+ORD0478,CUST9751,Mahnoor Iqbal,Female,53,,"House 262, Block A, G-13, Islamabad, Pakistan",Hoodie,Clothing,5,5,Rs 5500,Rs 27500,Debit Card,2025-05-25,Delivered,2
+ORD0479,CUST5239,Sana Ansari,Male,35,Islamabad,"House 459, Block E, G-13, Islamabad, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,Debit Card,2025-06-16,Delivered,2
+ORD0480,CUST2040,Fatima Khan,Female,22,Islamabad,"House 63, Block C, G-13, Islamabad, Pakistan",Backpack,Bags,5,5,Rs 4200,Rs 21000,Cash,2026-01-27,Pending,4
+ORD0481,CUST6068,Ali Khan,Male,23,Karachi,"House 439, Block C, PECHS Block 2, Karachi, Pakistan",Wireless Earbuds,Electronics,4,4,Rs 9500,Rs 38000,EasyPaisa,2025-06-04,Pending,5
+ORD0482,CUST1812,Mahnoor Sheikh,Female,25,Sialkot,"House 121, Block D, Cantt Area, Sialkot, Pakistan",Perfume,Beauty,3,3,Rs 6500,Rs 19500,Debit Card,2025-09-11,Pending,4
+ORD0483,CUST5212,Saad Butt,Male,51,Lahore,"House 746, Block C, Johar Town, Lahore, Pakistan",Hoodie,Clothing,1,1,Rs 5500,Rs 5500,Debit Card,2026-04-11,Delivered,3
+ORD0484,CUST3885,Hussain Sheikh,Female,20,Islamabad,"House 195, Block B, F-10, Islamabad, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Credit Card,2025-10-23,Pending,1
+ORD0485,CUST8311,Ahmed Khan,Male,22,Lahore,"House 281, Block B, DHA Phase 4, Lahore, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,JazzCash,2026-05-02,Cancelled,3
+ORD0486,CUST2137,Laiba Ahmed,Female,55,Rawalpindi,"House 209, Block E, Chaklala Scheme 3, Rawalpindi, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Credit Card,2026-03-16,Delivered,3
+ORD0487,CUST5240,Hassan Butt,Female,20,Lahore,"House 803, Block C, Johar Town, Lahore, Pakistan",Cap,Accessories,3,3,Rs 1800,Rs 5400,Credit Card,2026-04-30,Cancelled,5
+ORD0488,CUST6891,Umer Iqbal,Male,34,Faisalabad,"House 329, Block B, People Colony, Faisalabad, Pakistan",Jeans,Clothing,3,3,Rs 4800,Rs 14400,Debit Card,2025-08-07,Pending,3
+ORD0489,CUST8102,Ahmed Ansari,Male,20,Lahore,"House 741, Block E, Bahria Town, Lahore, Pakistan",Smart Watch,Electronics,4,4,Rs 12000,Rs 48000,JazzCash,2025-10-30,Pending,2
+ORD0490,CUST5427,Muneeb Raza,Male,20,Lahore,"House 922, Block D, Bahria Town, Lahore, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,,2025-11-17,Pending,4
+ORD0491,CUST6625,Ayesha Ansari,Male,32,Lahore,"House 303, Block D, Johar Town, Lahore, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,EasyPaisa,2026-01-13,Pending,5
+ORD0492,CUST1451,Hamza Hussain,Male,45,Rawalpindi,"House 35, Block C, Satellite Town, Rawalpindi, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,Debit Card,2025-11-13,Pending,4
+ORD0493,CUST7374,Mahnoor Hussain,Female,46,Quetta,"House 141, Block A, Samungli Road, Quetta, Pakistan",Wireless Earbuds,Electronics,3,3,Rs 9500,Rs 28500,Credit Card,2025-05-14,Delivered,4
+ORD0494,CUST6437,Hira Raza,Female,38,Karachi,"House 633, Block A, North Nazimabad Block H, Karachi, Pakistan",Perfume,Beauty,4,4,Rs 6500,Rs 26000,Credit Card,2025-06-06,Cancelled,3
+ORD0495,CUST1491,Zainab Raza,Male,20,Peshawar,"House 161, Block B, University Town, Peshawar, Pakistan",Backpack,Bags,4,4,Rs 4200,Rs 16800,Credit Card,2025-10-31,Pending,2
+ORD0496,CUST8025,,Male,28,Sialkot,"House 710, Block C, Cantt Area, Sialkot, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,EasyPaisa,2025-08-23,Delivered,2
+ORD0497,CUST5675,Hira Ansari,Female,5,Sialkot,"House 442, Block E, Paris Road, Sialkot, Pakistan",Cap,Accessories,4,4,Rs 1800,Rs 7200,Credit Card,2025-10-30,Cancelled,1
+ORD0498,CUST4892,Laiba Malik,Female,53,Karachi,"House 648, Block C, Block 13D Gulshan-e-Iqbal, Karachi, Pakistan",Perfume,Beauty,3,3,Rs 6500,Rs 19500,Debit Card,2025-08-31,Delivered,3
+ORD0499,CUST6774,Hussain Butt,Female,47,Rawalpindi,"House 788, Block A, Satellite Town, Rawalpindi, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,Debit Card,2025-12-27,Cancelled,2
+ORD0500,CUST1450,Hamza Sheikh,Female,50,Islamabad,"House 233, Block C, F-10, Islamabad, Pakistan",Perfume,Beauty,5,5,Rs 6500,32500 Rs,Credit Card,2026-04-16,Pending,5
+ORD0362,CUST3156,Hussain Siddiqui,Male,40,Rawalpindi,"House 906, Block C, Satellite Town, Rawalpindi, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,JazzCash,2026-02-09,Cancelled,3
+ORD0074,CUST8269,Ahmed Hussain,Female,41,Peshawar,"House 505, Block D, University Town, Peshawar, Pakistan",Backpack,Bags,3,3,Rs 4200,Rs 12600,EasyPaisa,2025-05-27,Pending,3
+ORD0375,CUST4099,Hira Malik,Female,37,Hyderabad,"House 983, Block E, Qasimabad, Hyderabad, Pakistan",Hoodie,Clothing,2,2,Rs 5500,Rs 11000,Debit Card,2025-06-19,Delivered,5
+ORD0156,CUST5574,Abdullah Iqbal,Male,50,Quetta,"House 904, Block D, Samungli Road, Quetta, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Cash,2025-07-12,Cancelled,5
+ORD0105,CUST3618,Saad Malik,Female,53,Faisalabad,"House 927, Block C, People Colony, Faisalabad, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Credit Card,2025-05-09,Pending,4
+ORD0395,CUST9906,Saad Ansari,Female,51,Multan,"House 308, Block D, Gulgasht Colony, Multan, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,EasyPaisa,2026-01-05,Cancelled,4
+ORD0378,CUST1835,Hira Khan,Female,19,Lahore,"House 241, Block A, Bahria Town, Lahore, Pakistan",Hoodie,Clothing,4,4,Rs 5500,Rs 22000,EasyPaisa,2025-08-25,Pending,5
+ORD0125,CUST6882,Hira Siddiqui,Male,24,Quetta,"House 710, Block A, Jinnah Town, Quetta, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,Cash,2026-01-17,Pending,5
+ORD0069,CUST5633,Ali Ahmed,Male,24,Multan,"House 609, Block D, Cantt, Multan, Pakistan",Wireless Earbuds,Electronics,2,2,Rs 9500,Rs 19000,Credit Card,2026-04-29,Cancelled,2
+ORD0451,CUST1568,Taimoor Iqbal,Male,38,Islamabad,"House 656, Block E, F-10, Islamabad, Pakistan",T-Shirt,Clothing,1,1,Rs 2500,Rs 2500,JazzCash,2025-08-28,Delivered,1
+ORD0010,CUST5810,Laiba Malik,Male,48,Lahore,"House 583, Block D, Bahria Town, Lahore, Pakistan",Smart Watch,Electronics,3,3,Rs 12000,Rs 36000,Cash,2025-10-29,Pending,5
+ORD0195,CUST6832,Zainab Butt,Female,23,Karachi,"House 624, Block D, PECHS Block 2, Karachi, Pakistan",Jeans,Clothing,1,1,Rs 4800,Rs 4800,EasyPaisa,2025-11-13,Cancelled,4
+ORD0407,CUST6196,Bilal Farooq,Female,27,Quetta,"House 633, Block E, Samungli Road, Quetta, Pakistan",T-Shirt,Clothing,2,2,Rs 2500,Rs 5000,Cash,2025-10-08,Pending,2
+ORD0085,CUST3623,Sana Iqbal,Male,22,Faisalabad,"House 93, Block D, People Colony, Faisalabad, Pakistan",Smart Watch,Electronics,1,1,Rs 12000,Rs 12000,EasyPaisa,2026-03-13,Pending,1
+ORD0372,CUST4389,Abdullah Butt,Female,26,Faisalabad,"House 744, Block A, People Colony, Faisalabad, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,JazzCash,2025-07-09,Delivered,3
+ORD0389,CUST7997,Ayesha Raza,Female,37,Peshawar,"House 984, Block A, University Town, Peshawar, Pakistan",Smart Watch,Electronics,5,5,Rs 12000,Rs 60000,EasyPaisa,2025-08-25,Delivered,5
+ORD0496,CUST8025,Ali Farooq,Male,28,Sialkot,"House 710, Block C, Cantt Area, Sialkot, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,EasyPaisa,2025-08-23,Delivered,2
+ORD0031,CUST8422,Ahmed Ansari,Male,19,Quetta,"House 760, Block B, Samungli Road, Quetta, Pakistan",Sneakers,Footwear,5,5,Rs 8500,Rs 42500,Debit Card,2025-11-21,Delivered,5
+ORD0317,CUST1055,Saad Ansari,Female,48,Faisalabad,"House 532, Block C, D Ground, Faisalabad, Pakistan",Jeans,Clothing,-2,2,Rs 4800,Rs 9600,Credit Card,2026-03-22,Cancelled,3
+ORD0409,CUST5088,Bilal Qureshi,Male,26,Peshawar,"House 856, Block E, Hayatabad, Peshawar, Pakistan",Sunglasses,Accessories,5,5,Rs 3200,Rs 16000,EasyPaisa,2025-06-03,Pending,1
+ORD0491,CUST6625,Ayesha Ansari,Male,32,Lahore,"House 303, Block D, Johar Town, Lahore, Pakistan",Sunglasses,Accessories,4,4,Rs 3200,Rs 12800,EasyPaisa,2026-01-13,Pending,5
+ORD0492,CUST1451,Hamza Hussain,Male,45,Rawalpindi,"House 35, Block C, Satellite Town, Rawalpindi, Pakistan",Sunglasses,Accessories,3,3,Rs 3200,Rs 9600,Debit Card,2025-11-13,Pending,4
+ORD0281,CUST9454,Zainab Qureshi,Female,35,Faisalabad,"House 845, Block E, People Colony, Faisalabad, Pakistan",Perfume,Beauty,2,2,Rs 6500,Rs 13000,Debit Card,2025-07-07,Delivered,2
+ORD0357,CUST2329,Saad Sheikh,Male,21,  FAISALABAD ,"House 461, Block C, D Ground, Faisalabad, Pakistan",Wireless Earbuds,Electronics,1,1,Rs 9500,Rs 9500,EasyPaisa,2026-03-19,Cancelled,5
+ORD0077,CUST2731,Hamza Ansari,Male,28,,"House 554, Block E, Johar Town, Lahore, Pakistan",Sneakers,Footwear,1,1,Rs 8500,Rs 8500,Debit Card,2026-04-09,Cancelled,3
