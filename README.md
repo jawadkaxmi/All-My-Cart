@@ -34,6 +34,8 @@ The goal is to understand when data processing should happen on the backend and 
 
 The project demonstrates how architectural choices affect performance, scalability, data exposure, and deployment simplicity.
 
+## Screenshot
+![Screenshot](screenshot.jpeg)
 
 ## Credits
 Developers
